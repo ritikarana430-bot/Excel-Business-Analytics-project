@@ -9,7 +9,7 @@ Corporate sales dataset including customer details, product information, transac
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Screenshot (10).png)
+![Dashboard Screenshot](dashboard.png)
 
 
 ## Project Components
