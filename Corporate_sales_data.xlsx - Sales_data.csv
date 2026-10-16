@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Product_ID,Order_Date,Delivery_Date,Customer_Name,Gender,DOB,City,Region,Category,Product_Name,Quantity,Unit_Price,Discount_%,Sales,Rating,Payment_Mode,Salesperson,Email,Phone,Order_Status
+ORD10001,C008,P202,18/09/2025,22/09/2025,Kavya Nair,Female,01/08/1976,Hyderabad,South,Home Appliances,Iron,4,2200,10,7920,4,Cash,Ritika,KAvya.nair@company.com,9431429797,Completed
+ORD10002,C008,P104,27/04/2025,04/05/2025,Kavya Nair,Female,16/10/2000,Delhi,North,Electronics,Monitor,17,12000,10,183600,1,NetBanking,Rahul,kavya.nair@company.com,9129865339,Completed
+ORD10003,C010,P101,03/09/2025,14/09/2025,pooja      shah,Female,16/09/1994,Bengaluru,South,Electronics,Laptop,5,55000,5,261250,3,NetBanking,Aisha,pooja.shah@company.com,9380975626,Pending
+ORD10002,C008,P202,21/03/2026,02/04/2026,Kavya Nair,Female,07/03/2004,Bengaluru,South,Home Appliances,Iron,5,2200,5,10450,5,NetBanking,Aisha,kavya.nair@company.com,9600261125,Cancelled
+ORD10005,C009,P103,27/09/2025,07/10/2025,Mohit     Verma,Male,13/04/1976,Delhi,North,Electronics,Keyboard,8,1200,5,9120,2,Card,Aisha,mohit.verma@company.com,9724635978,Pending
+ORD10006,C007,P202,04/01/2026,12/01/2026,arjun Rao,Male,07/02/1988,Hyderabad,South,Home Appliances,Iron,4,2200,0,8800,1,UPI,Ritika,arjun.rao@company.com,9780584905,Completed
+ORD10007,C008,P201,31/02/2025,25/02/2026,Kavya      Nair,Female,20/03/2003,Hyderabad,South,Home Appliances,Mixer,2,3500,5,6650,1,UPI,Ritika,kavya.nair@company.com,9958252176,Completed
+ORD10008,C002,P104,13/04/2025,19/04/2025,Priya Patel,Female,07/03/1995,Mumbai,West,Electronics,Monitor,14,12000,15,142800,4,NetBanking,Ritika,priYa.patel@company.com,9705521654,Completed
+ORD10009,C008,P104,31/01/2026,02/02/2026,kavya Nair,Female,06/04/1997,Pune,West,Electronics,Monitor,4,12000,15,40800,4,UPI,Neha,kavya.nair@company.com,9588041011,Completed
+ORD10010,C002,P301,25/03/2025,27/03/2025,Priya Patel,Female,07/01/1990,Mumbai,West,Stationery,Notebook,6,60,0,360,4,Card,Neha,PRiya.patel@company.com,9340540608,Completed
+ORD10011,C003,P202,19/09/2025,23/09/2025,               Rohit Singh,Male,10/05/1982,Delhi,North,Home Appliances,Iron,-3,2200,0,35200,2,Card,Rahul,rohit.singh@company.com,9521710321,Pending
+ORD10012,C008,P201,08/03/2025,15/03/2025,Kavya Nair,Female,23/01/1982,Ahmedabad,West,Home Appliances,Mixer,10,3500,5,33250,5,Card,Aisha,kavya.nair@company.com,9123535241,Cancelled
+ORD10013,C002,P202,10/01/2025,15/01/2025,Priya Patel,Female,06/07/1992,Pune,West,Home Appliances,Iron,15,2200,10,29700,1,UPI,Neha,priya.patel@company.com,9367316892,Pending
+ORD10014,C003,P202,09/03/2025,13/03/2025,rohit Singh,Male,19/03/2002,Mumbai,West,Home Appliances,Iron,17,2200,5,35530,1,Cash,Karan,rOhit.singh@company.com,9778489803,Completed
+ORD10015,C008,P201,26/07/2025,07/08/2025,    Kavya nair,Female,17/01/2001,Mumbai,West,Home Appliances,Mixer,15,3500,15,44625,2,Cash,Neha,kavya.nair@company.com,9582960180,Cancelled
+ORD10016,C010,P103,08/04/2026,11/04/2026,Pooja Shah,Female,11/04/2002,Hyderabad,South,Electronics,Keyboard,3,1200,5,3420,5,UPI,Ritika,pooja.shahcompany.com,9611394005,Completed
+ORD10017,C004,P203,22/02/2026,03/03/2026,  Amit Sharma ,Female,16/01/2002,Pune,West,Home Appliances,Microwave,13,8500,20,88400,4,Card,Rahul,anita.gupta@company.com,9692599404,Pending
+ORD10018,C007,P203,28/02/2026,05/03/2026,Arjun Rao,Male,09/10/1989,Ahmedabad,West,Home Appliances,Microwave,4,8500,20,27200,5,Card,Aisha,arjun.rao@company.com,9426119622,Pending
+ORD10019,C007,P102,01/12/2025,04/12/2025,arjun rao,Male,28/10/1991,Mumbai,West,Electronics,Mouse,9,700,5,5985,3,UPI,Ritika,arjun.Rao@company.com,9184436009,Pending
+ORD10020,C008,P101,25/06/2025,03/07/2025,Kavya Nair,Female,01/03/1990,Ahmedabad,West,Electronics,Laptop,8,55000,20,352000,1,Cash,Karan,kavya.nair@company.com,9263774934,Completed
+ORD10021,C003,P102,26/04/2025,05/05/2025,Rohit Singh,Male,18/07/2002,Delhi,North,electronics,Mouse,10,700,20,5600,4,Card,Aisha,rohit.singh@company.com,9473159572,Cancelled
+ORD10022,C008,P201,03/01/2025,08/01/2025,kavya Nair,Female,15/12/2004,Bengaluru,South,Home Appliances,Mixer,1,3500,5,3325,3,UPI,Neha,kavya.nair@company.com,9660493688,Cancelled
+ORD10023,C002,P102,19/04/2025,30/04/2025,Priya Patel,Female,04/07/1984,Jaipur,North,Electronics,Mouse,19,700,15,11305,3,NetBanking,Karan,priya.patel@company.com,9513325819,Pending
+ORD10024,C009,P101,22/12/2025,01/01/2026,Mohit Verma,Male,25/02/1978,Bengaluru,South,Electronics,Laptop,12,55000,0,660000,1,Card,Rahul,mohit.verma@company.com,9641063242,Pending
+ORD10025,C005,P302,09/04/2026,20/04/2026,Vikas Mehta,Male,03/08/1991,Mumbai,West,Stationery,Pen,1,20,5,19,5,Card,Ritika,vikas.mehta@company.com,9277372518,Cancelled
+ORD10026,C007,P302,24/06/2025,02/07/2025,Arjun Rao,Male,11/12/1977,Mumbai,West,Stationery,Pen,2,20,15,34,1,UPI,Ritika,arjun.rao@company.com,9193154372,Pending
+ORD10027,C009,P201,22/05/2025,25/05/2025,Mohit Verma,Male,08/02/1992,Ahmedabad,West,Home Appliances,Mixer,12,3500,15,35700,4,Cash,Rahul,mohit.verma@company.com,9400073244,Cancelled
+ORD10028,C008,P103,13/03/2026,20/03/2026,Kavya Nair,Female,05/06/2004,Ahmedabad,West,Electronics,Keyboard,11,1200,0,13200,2,UPI,Karan,kavya.nair@company.com,9771556720,Completed
+ORD10029,C003,P203,08/09/2025,20/09/2025,Rohit Singh,Male,11/08/2001,Pune,West,Home Appliances,Microwave,6,8500,65,51000,1,Card,Aisha,rohit.singh@company.com,9127480734,Completed
+ORD10030,C006,P301,11/01/2026,16/01/2026,Sneha Joshi,Female,04/04/1981,Pune,West,Stationery,Notebook,2,60,5,114,3,Cash,Karan,sneha.joshi@company.com,9512997042,Cancelled
+ORD10031,C008,P303,16/06/2025,26/06/2025,Kavya Nair,Female,02/07/1996,Bengaluru,South,Stationery,Marker,19,45,20,684,4,NetBanking,Aisha,kavya.nair@company.com,9372748661,Cancelled
+ORD10032,C002,P104,01/07/2025,13/07/2025,Priya    Patel,Female,15/11/1976,Ahmedabad,West,Electronics,Monitor,11,12000,0,132000,3,UPI,Ritika,priya.patel@company.com,9570437805,Pending
+ORD10033,C006,P202,07/03/2025,15/03/2025,Sneha Joshi,Female,28/10/1988,Bengaluru,South,Home Appliances,Iron,20,2200,5,41800,1,Cash,Rahul,sneha.joshi@company.com,9310669113,Pending
+ORD10034,C007,P302,24/06/2025,04/07/2025,Arjun Rao,Male,23/06/2004,Ahmedabad,West,Stationery,Pen,3,20,0,60,2,Card,Ritika,wrongmail,9437132894,Cancelled
+ORD10035,C003,P303,09/10/2025,19/10/2025,Rohit Singh,Male,22/04/1996,Pune,West,Stationery,Marker,18,45,20,648,4,NetBanking,Ritika,rohit.singh@company.com,9762437243,Cancelled
+ORD10036,C003,P103,19/11/2025,26/11/2025,Rohit Singh,Male,07/07/1979,Bengaluru,South,Electronics,Keyboard,4,1200,20,3840,3,NetBanking,Aisha,rohit.singh@company.com,9149046970,Completed
+ORD10037,C009,P101,05/11/2025,14/11/2025,Mohit Verma,Male,27/09/1980,Kolkata,East,Electronics,Laptop,10,55000,0,550000,1,UPI,Rahul,mohit.verma@company.com,9869182901,Cancelled
+ORD10038,C006,P201,08/03/2026,20/03/2026,Sneha Joshi,Female,21/06/1980,Delhi,North,Home Appliances,Mixer,20,3500,10,63000,3,Card,Rahul,sneha.joshi@company.com,9283578533,Cancelled
+ORD10039,C008,P302,13/02/2025,19/02/2025,Kavya Nair,Female,17/06/1979,Pune,West,Stationery,Pen,5,1200 ,0,100,1,Cash,Rahul,kavya.nair@company.com,9963005771,Cancelled
+ORD10040,C010,P203,05/10/2025,15/10/2025,Pooja Shah,Female,18/06/1992,Mumbai,West,Home Appliances,Microwave,20,8500,0,170000,1,UPI,Neha,pooja.shah@company.com,9484632635,Cancelled
+ORD10041,C007,P301,10/02/2026,12/02/2026,Arjun Rao,Male,06/06/1994,Bengaluru,South,Stationery,Notebook,8,60,15,408,5,UPI,Rahul,arjun.rao@company.com,9276319484,Pending
+ORD10042,C010,P201,04/06/2025,16/06/2025,Pooja Shah,Female,22/09/1988,Pune,West,Home Appliances,Mixer,8,3500,5,26600,1,Card,Neha,pooja.shah@company.com,9619034852,Pending
+ORD10043,C009,P203,08/02/2026,14/02/2026,Mohit Verma,Male,14/07/2001,Jaipur,North,Home Appliances,Microwave,1,8500,0,8500,2,Card,Neha,mohit.verma@company.com,9636416962,Pending
+ORD10044,C001,P303,30/03/2025,31/03/2025,amit Sharma,Male,09/08/1991,Pune,West,Stationery,Marker,8,45,15,306,2,Card,Aisha,amit.sharma@company.com,9357133880,Completed
+ORD10045,C006,P202,25/04/2025,28/04/2025,Sneha Joshi,Female,21/10/1988,Pune,West,Home Appliances,Iron,16,2200,5,33440,5,Card,Aisha,sneha.joshi@company.com,9575210324,Cancelled
+ORD10046,C009,P201,13/10/2025,23/10/2025,Mohit Verma,Male,19/11/2002,Bengaluru,South,Home Appliances,Mixer,19,3500,20,53200,3,Cash,Karan,mohit.verma@company.com,9276080204,Cancelled
+ORD10047,C006,P102,11/10/2025,14/10/2025,Sneha Joshi,Female,06/07/2000,Pune,West,Electronics,Mouse,15,700,15,8925,4,UPI,Neha,sneha.joshicompany.com,9856624471,Completed
+ORD10048,C006,P102,27/11/2025,03/12/2025,Sneha Joshi,Female,26/11/1998,Jaipur,North,Electronics,Mouse,19,700,20,10640,1,Cash,Neha,sneha.joshi@company.com,9238141322,Completed
+ORD10049,C009,P104,19/04/2026,,Mohit Verma,Male,03/06/1996,Delhi,North,Electronics,Monitor,19,12000,0,228000,1,NetBanking,Aisha,mohit.verma@company.com,9890380030,Completed
+ORD10050,C004,P103,19/04/2026,21/04/2026,Anita Gupta,Female,15/03/1987,Pune,West,Electronics,Keyboard,6,1200,5,6840,2,Cash,Ritika,anita.gupta@company.com,9495893170,Pending
+ORD10051,C010,P202,28/03/2025,07/04/2025,POoja Shah,Female,20/02/1979,Bengaluru,South,Home Appliances,Iron,7,2200,15,13090,1,UPI,Aisha,pooja.shah@company.com,9485166307,Completed
+ORD10052,C002,P301,25/08/2025,28/08/2025,Priya Patel,Female,09/08/2000,Jaipur,North,Stationery,Notebook,8,60,10,432,5,Card,Aisha,priya.patel@company.com,9924709648,Cancelled
+ORD10053,C005,P101,19/08/2025,23/08/2025,Vikas Mehta,Male,17/01/1976,Kolkata,East,Electronics,Laptop,12,55000,5,627000,2,UPI,Rahul,vikas.mehta@company.com,9350554626,Pending
+ORD10054,C008,P102,27/07/2025,05/08/2025,Kavya Nair,Female,04/04/1975,Jaipur,North,Electronics,Mouse,3,700,0,2100,3,Card,Karan,kavya.nair@company.com,9743295580,Cancelled
+ORD10055,C003,P301,21/02/2025,26/02/2025,RoHit Singh,Male,11/12/1976,Ahmedabad,West,Stationery,Notebook,19,60,15,969,4,Card,Rahul,rohit.singh@company.com,9822926495,Cancelled
+ORD10056,C001,P301,10/08/2025,11/08/2025,Amit Sharma,Male,03/12/1979,Jaipur,North,Stationery,Notebook,9,60,20,432,1,NetBanking,Neha,amit.sharma@company.com,9518298190,Pending
+ORD10057,C001,P102,24/03/2026,30/03/2026,Amit Sharma,Male,27/12/1978,Bengaluru,South,Electronics,Mouse,6,700,0,4200,4,UPI,Rahul,amit.sharmcompany.com,9366223547,Cancelled
+ORD10058,C003,P303,13/03/2026,19/03/2026,Rohit Singh,Male,15/04/1975,Delhi,North,Stationery,Marker,18,45,5,769.5,1,Card,Aisha,rohit.singh@company.com,9701988524,Pending
+ORD10059,C007,P302,15/06/2025,26/06/2025,Arjun Rao,Male,19/12/1988,Jaipur,North,Stationery,Pen,8,20,5,152,1,Card,Ritika,arjun.rao@company.com,9836327649,completed
+ORD10060,C005,P102,05/03/2025,06/03/2025,Vikas Mehta,Male,07/03/1979,Jaipur,North,Electronics,Mouse,8,700,10,5040,1,NetBanking,Aisha,Vikas.mehta@company.com,9261800516,Cancelled
+ORD10061,C008,P302,09/04/2026,19/04/2026,Kavya Nair,Female,17/12/2003,Delhi,North,Stationery,Pen,7,20,15,119,5,Card,Rahul,kavya.nair@company.com,9950802015,Completed
+ORD10062,C002,P302,16/08/2025,25/08/2025,Priya Patel,Female,05/04/1984,Pune,West,Stationery,Pen,16,20,0,320,5,NetBanking,Aisha,priya.patel@company.com,9595183767,Pending
+ORD10063,C010,P303,13/05/2026,20/05/2026,Pooja Shah,Female,13/04/1996,Mumbai,West,Stationery,Marker,15,45,0,675,4,Cash,Aisha,pooja.shah@company.com,9560201307,Cancelled
+ORD10064,C006,P102,01/03/2025,05/03/2025,Sneha Joshi,Female,08/09/2003,Ahmedabad,West,Electronics,Mouse,15,700,10,9450,3,NetBanking,Karan,sneha.joshi@company.com,9826484650,Completed
+ORD10065,C010,P303,09/02/2025,12/02/2025,Pooja Shah,Female,24/09/1992,Kolkata,East,Stationery,Marker,3,45,15,114.75,2,UPI,Neha,pooja.shah@company.com,9219978007,Pending
+ORD10066,C002,P202,09/01/2026,10/01/2026,Priya Patel,Female,19/09/1986,Kolkata,East,Home Appliances,Iron,7,2200,15,13090,5,UPI,Neha,priya.patel@company.com,9662063276,Completed
+ORD10067,C008,P303,01/09/2025,05/09/2025,Kavya Nair,Female,28/05/1985,Delhi,North,Stationery,Marker,19,45,10,769.5,5,Card,Neha,kavya.nair@company.com,9190393639,Cancelled
+ORD10068,C006,P201,09/02/2026,14/02/2026,Sneha Joshi,Female,27/08/1979,Hyderabad,South,Home Appliances,Mixer,7,3500,15,20825,1,Cash,Karan,sneha.joshi@company.com,9106328582,Pending
+ORD10069,C010,P203,14/12/2025,19/12/2025,Pooja Shah,Female,22/12/1976,Jaipur,North,Home Appliances,Microwave,7,8500,20,47600,4,NetBanking,Neha,pooja.shah@company.com,9264401015,Completed
+ORD10070,C008,P101,07/04/2025,10/04/2025,Kavya Nair,Female,05/02/2000,Bengaluru,South,Electronics,Laptop,16,55000,10,792000,1,Card,Aisha,kavya.nair@company.com,9959237375,Completed
+ORD10071,C004,P104,24/12/2025,03/01/2026,Anita Gupta,Female,24/02/1987,Mumbai,West,Electronics,Monitor,2,12000,20,19200,1,Cash,Karan,Anita.gupta@company.com,9561836580,Pending
+ORD10072,C003,P303,30/08/2025,05/09/2025,Rohit Singh,Male,24/07/1984,Bengaluru,South,Stationery,Marker,4,45,5,171,1,Card,Rahul,rohit.singh@company.com,9512666401,Pending
+ORD10073,C008,P103,13/12/2025,23/12/2025,Kavya Nair,Female,22/09/1981,Jaipur,North,Electronics,Keyboard,1,1200,5,1140,3,UPI,Aisha,kavya.nair@company.com,9808988530,Cancelled
+ORD10074,C010,P202,04/02/2026,16/02/2026,Pooja Shah,Female,20/06/1980,,South,Home Appliances,Iron,1,2200,15,1870,4,Card,Aisha,pooja.shah@company.com,9286410494,Completed
+ORD10075,C003,P103,26/01/2026,28/01/2026,Rohit Singh,Male,02/11/1982,Pune,West,Electronics,Keyboard,3,1200,10,3240,5,Cash,Rahul,rohit.singh@company.com,9311555196,Completed
+ORD10076,C008,P201,27/06/2025,07/07/2025,Kavya Nair,Female,10/01/1980,Bengaluru,South,Home Appliances,Mixer,10,3500,20,28000,5,Card,Ritika,kavya.nair@company.com,9101810266,Completed
+ORD10077,C007,P102,17/03/2026,19/03/2026,Arjun Rao,Male,27/04/1981,Delhi,North,Electronics,Mouse,18,700,5,11970,3,Card,Neha,arjun.rao@company.com,9464556593,Cancelled
+ORD10078,C005,P102,09/06/2025,18/06/2025,Vikas Mehta,Male,12/03/1985,Bengaluru,South,Electronics,Mouse,12,700,15,7140,2,UPI,Rahul,vikas.mehta@company.com,9338278358,Completed
+ORD10079,C009,P103,15/11/2025,16/11/2025,Mohit Verma,Male,15/03/1999,Mumbai,West,Electronics,Keyboard,8,1200,0,9600,4,Card,Rahul,mohit.verma@company.com,9621410770,Pending
+ORD10080,C003,P301,06/11/2025,10/11/2025,Rohit Singh,Male,07/07/1983,Pune,West,Stationery,Notebook,2,60,0,120,2,UPI,Rahul,rohit.singh@company.com,9981333189,Completed
+ORD10081,C001,P303,01/01/2025,07/01/2025,Amit Sharma,Male,06/03/1989,Pune,West,Stationery,Marker,10,45,15,382.5,3,NetBanking,Ritika,amit.sharma@company.com,9723450355,Cancelled
+ORD10082,C005,P201,25/04/2026,03/05/2026,Vikas Mehta,Male,20/06/1982,Kolkata,East,Home Appliances,Mixer,12,3500,5,39900,3,NetBanking,Aisha,vikas.mehta@company.com,9886243907,Pending
+ORD10083,C003,P301,19/09/2025,27/09/2025,Rohit Singh,Male,23/06/2001,Mumbai,West,Stationery,Notebook,2,60,15,102,1,UPI,Neha,rohit.singh@company.com,9473931904,Completed
+ORD10084,C003,P103,18/03/2025,21/03/2025,Rohit Singh,Male,19/07/1983,Hyderabad,South,Electronics,Keyboard,18,1200,15,18360,3,Card,Neha,rohit.singh@company.com,9287159610,Pending
+ORD10085,C008,P104,30/10/2025,31/10/2025,Kavya Nair,Female,24/03/1993,Mumbai,West,Electronics,Monitor,18,12000,15,183600,2,Cash,Rahul,kavya.nair@company.com,9876513858,Completed
+ORD10086,C007,P302,31/10/2025,11/11/2025,Arjun Rao,Male,10/05/1995,Ahmedabad,West,Stationery,Pen,7,20,0,140,2,Card,Ritika,arjun.rao@company.com,9237400853,Cancelled
+ORD10087,C006,P201,10/04/2025,18/04/2025,Sneha Joshi,Female,15/02/2001,Pune,West,Home Appliances,Mixer,20,3500,20,56000,4,Card,Neha,sneha.joshi@company.com,9599597595,Pending
+ORD10088,C002,P203,16/03/2026,26/03/2026,Priya Patel,Female,14/08/1999,Ahmedabad,West,Home Appliances,Microwave,8,8500,20,54400,3,Card,Neha,priya.patel@company.com,9230007509,Pending
+ORD10089,C001,P104,15/09/2025,24/09/2025,Amit Sharma,Male,20/03/2002,Ahmedabad,north,Electronics,Monitor,6,12000,5,68400,4,NetBanking,Ritika,amit.sharma@company.com,9823428025,Completed
+ORD10090,C008,P203,11/03/2026,19/03/2026,Kavya Nair,Female,13/06/1992,Pune,West,Home Appliances,Microwave,15,8500,0,127500,4,NetBanking,Ritika,kavya.nair@company.com,9505048912,Cancelled
+ORD10091,C010,P103,20/08/2025,23/08/2025,Pooja Shah,Female,18/06/1996,Jaipur,North,Electronics,Keyboard,5,1200,15,5100,1,NetBanking,Ritika,pooja.shah@company.com,9508068393,Cancelled
+ORD10092,C010,P302,13/08/2025,14/08/2025,Pooja Shah,Female,08/11/1982,Hyderabad,South,Stationery,Pen,4,20,0,80,4,NetBanking,Rahul,pooja.shah@company.com,9785807771,Completed
+ORD10093,C008,P302,16/03/2025,20/03/2025,Kavya Nair,Female,25/06/1984,Bengaluru,South,Stationery,Pen,10,20,0,200,3,Cash,Karan,kavya.nair@company.com,9215250979,Pending
+ORD10094,C004,P202,04/09/2025,10/09/2025,Anita Gupta,Female,21/06/1994,Delhi,North,Home Appliances,Iron,18,2200,10,35640,3,Cash,Ritika,anita.gupta@company.com,9845884906,Cancelled
+ORD10095,C001,P201,12/04/2025,15/04/2025,Amit Sharma,Male,17/10/1990,Delhi,North,Home Appliances,Mixer,7,3500,15,20825,3,NetBanking,Rahul,amit.sharma@company.com,9393097397,Completed
+ORD10096,C002,P203,04/05/2026,07/05/2026,Priya Patel,Female,28/01/1987,Kolkata,East,Home Appliances,Microwave,19,8500,15,137275,4,Card,Karan,priya.patel@company.com,9958032109,Pending
+ORD10097,C006,P104,18/01/2026,27/01/2026,Sneha Joshi,Female,21/09/1983,Ahmedabad,West,Electronics,Monitor,13,12000,15,132600,4,Cash,Rahul,sneha.joshi@company.com,9755082957,Completed
+ORD10098,C001,P302,14/03/2026,24/03/2026,Amit Sharma,Male,04/04/1989,Pune,West,Stationery,Pen,7,20,0,140,1,Card,Karan,amit.sharma@company.com,9872235856,Cancelled
+ORD10099,C004,P102,09/05/2025,11/05/2025,Anita Gupta,Female,25/09/1987,Delhi,North,Electronics,Mouse,5,700,15,999999,4,Card,Ritika,anita.gupta@company.com,9335138816,Pending
+ORD10100,C007,P303,07/05/2026,10/05/2026,Arjun Rao,Male,07/08/1982,Bengaluru,South,Stationery,Marker,9,45,5,384.75,3,Cash,Ritika,arjun.rao@company.com,9750365609,Completed
+ORD10101,C003,P301,21/04/2025,29/04/2025,Rohit Singh,Male,17/07/1986,Kolkata,East,Stationery,Notebook,19,60,10,1026,5,NetBanking,Neha,rohit.singh@company.com,9736812737,Completed
+ORD10102,C001,P102,11/12/2025,20/12/2025,Amit Sharma,Male,06/04/1987,Ahmedabad,West,Electronics,Mouse,4,700,5,2660,3,NetBanking,Aisha,amit.sharma@company.com,9271420931,Completed
+ORD10103,C001,P201,07/05/2026,15/05/2026,Amit Sharma,Male,25/02/2004,Pune,West,Home Appliances,Mixer,16,3500,0,56000,2,Card,Rahul,amit.sharma@company.com,9781411370,Completed
+ORD10104,C006,P303,13/01/2025,20/01/2025,Sneha Joshi,Female,24/04/2001,Bengaluru,South,Stationery,Marker,5,45,20,180,3,Card,Ritika,sneha.joshi@company.com,9584152818,Completed
+ORD10105,C007,P302,17/03/2025,18/03/2025,Arjun Rao,Male,01/07/1996,Mumbai,West,Stationery,Pen,9,20,10,162,4,Card,Ritika,arjun.rao@company.com,9507986836,Pending
+ORD10106,C010,P103,25/02/2025,01/03/2025,Pooja Shah,Female,06/02/1979,Delhi,North,Electronics,Keyboard,9,1200,5,10260,3,UPI,Ritika,pooja.shah@company.com,9518249687,Pending
+ORD10107,C002,P201,26/02/2025,27/02/2025,Priya Patel,Female,12/12/1985,Delhi,North,Home Appliances,Mixer,3,3500,10,9450,2,Card,Karan,priya.patel@company.com,9179328207,Cancelled
+ORD10108,C005,P103,13/03/2026,18/03/2026,Vikas Mehta,Male,28/01/1992,Mumbai,West,Electronics,Keyboard,6,1200,15,6120,4,UPI,Ritika,vikas.mehta@company.com,9778490728,Cancelled
+ORD10109,C007,P103,10/07/2025,12/07/2025,Arjun Rao,Male,05/07/1993,Jaipur,North,Electronics,Keyboard,17,1200,15,17340,1,Cash,Aisha,arjun.rao@company.com,9223058722,Completed
+ORD10110,C005,P203,18/11/2025,26/11/2025,Vikas Mehta,Male,13/09/1977,Bengaluru,South,Home Appliances,Microwave,15,8500,0,127500,3,Cash,Neha,vikas.mehta@company.com,9999889465,Pending
+ORD10111,C003,P103,13/04/2025,19/04/2025,Rohit Singh,Male,11/10/1985,Hyderabad,South,Electronics,Keyboard,1,1200,20,960,1,UPI,Neha,rohit.singh@company.com,9489687402,Pending
+ORD10112,C003,P203,09/04/2025,18/04/2025,Rohit Singh,Male,02/10/2001,Kolkata,East,Home Appliances,Microwave,5,8500,10,38250,1,Card,Aisha,rohit.singh@company.com,9236963301,Completed
+ORD10113,C010,P303,03/04/2026,10/04/2026,Pooja Shah,Female,08/04/1986,Hyderabad,South,Stationery,Marker,12,45,5,513,2,NetBanking,Ritika,pooja.shah@company.com,9653594592,Cancelled
+ORD10114,C005,P301,23/10/2025,28/10/2025,Vikas Mehta,Male,21/07/1990,Pune,West,Stationery,Notebook,5,60,5,285,2,Cash,Aisha,vikas.mehta@company.com,9781970426,Completed
+ORD10115,C010,P102,03/04/2025,14/04/2025,Pooja Shah,Female,11/04/1994,Kolkata,East,Electronics,Mouse,3,700,0,2100,4,Card,Aisha,pooja.shah@company.com,9862165194,Completed
+ORD10116,C004,P302,25/04/2025,29/04/2025,Anita Gupta,Female,04/05/1992,Delhi,North,Stationery,Pen,6,20,15,102,5,Card,Karan,anita.gupta@company.com,9661280388,Completed
+ORD10117,C002,P102,24/08/2025,31/08/2025,Priya Patel,Female,13/05/1980,Bengaluru,South,Electronics,Mouse,2,700,15,1190,4,Cash,Karan,priya.patel@company.com,9896985355,Pending
+ORD10118,C001,P303,31/05/2025,11/06/2025,Amit Sharma,Male,07/09/1995,Pune,West,Stationery,Marker,16,45,0,720,1,NetBanking,Aisha,amit.sharma@company.com,9807154421,Completed
+ORD10119,C009,P103,30/05/2025,02/06/2025,Mohit Verma,Male,08/03/1988,Ahmedabad,West,Electronics,Keyboard,Ten,1200,15,7140,4,UPI,Karan,mohit.verma@company.com,9919834000,Pending
+ORD10120,C002,P104,19/08/2025,30/08/2025,Priya Patel,Female,07/07/1989,Jaipur,North,Electronics,Monitor,14,12000,15,142800,2,NetBanking,Aisha,priya.patel@company.com,9739798818,Pending
+ORD10121,C003,P203,14/12/2025,16/12/2025,Rohit Singh,Male,11/11/1993,Pune,West,Home Appliances,Microwave,8,8500,20,54400,3,Card,Rahul,rohit.singh@company.com,9208625306,Completed
+ORD10122,C007,P303,31/01/2026,10/02/2026,Arjun Rao,Male,01/02/2000,Bengaluru,South,Stationery,Marker,3,45,0,135,4,UPI,Aisha,arjun.rao@company.com,9970178536,Cancelled
+ORD10123,C001,P102,03/01/2026,04/01/2026,Amit Sharma,Male,22/06/1986,Jaipur,North,Electronics,Mouse,13,700,5,8645,3,Card,Neha,amit.sharma@company.com,9633745195,Pending
+ORD10124,C004,P103,20/10/2025,26/10/2025,Anita Gupta,Female,16/02/1986,Mumbai,West,Electronics,Keyboard,14,1200,20,13440,5,NetBanking,Aisha,anita.gupta@company.com,9922102053,Completed
+ORD10125,C002,P303,11/05/2025,21/05/2025,Priya Patel,Female,18/09/1991,Delhi,North,Stationery,Marker,2,45,5,85.5,3,UPI,Ritika,priya.patel@company.com,9135963930,Cancelled
+ORD10126,C004,P103,02/01/2026,06/01/2026,Anita Gupta,Female,04/01/1981,Bengaluru,South,Electronics,Keyboard,2,1200,20,1920,3,Card,Neha,anita.gupta@company.com,9429405275,Completed
+ORD10127,C003,P101,20/04/2026,26/04/2026,Rohit Singh,Male,12/10/2004,Bengaluru,South,Electronics,Laptop,10,55000,5,522500,5,UPI,Aisha,rohit.singh@company.com,9521757571,Pending
+ORD10128,C006,P201,04/08/2025,05/08/2025,Sneha Joshi,Female,25/03/1984,Jaipur,North,Home Appliances,Mixer,15,3500,10,47250,3,NetBanking,Neha,sneha.joshi@company.com,9467375455,Completed
+ORD10129,C002,P202,13/08/2025,18/08/2025,Priya Patel,Female,09/09/1982,Bengaluru,South,Home Appliances,Iron,10,2200,15,18700,4,Card,Rahul,priya.patel@company.com,9838809695,Pending
+ORD10130,C006,P201,16/06/2025,24/06/2025,Sneha Joshi,Female,15/02/1993,Pune,West,Home Appliances,Mixer,11,3500,5,36575,5,Cash,Ritika,sneha.joshi@company.com,9296609782,Cancelled
+ORD10131,C004,P103,27/04/2026,30/04/2026,Anita Gupta,Female,08/04/2003,Bengaluru,South,Electronics,Keyboard,14,1200,0,16800,5,Cash,Rahul,anita.gupta@company.com,9848259992,Cancelled
+ORD10132,C002,P302,17/02/2026,22/02/2026,Priya Patel,Female,20/10/1989,Delhi,North,Stationery,Pen,11,20,20,176,4,NetBanking,Ritika,priya.patel@company.com,9254082295,Completed
+ORD10133,C009,P104,04/04/2026,10/04/2026,Mohit Verma,Male,15/09/1995,Pune,West,Electronics,Monitor,6,12000,10,64800,5,UPI,Karan,mohit.verma@company.com,9687923860,Completed
+ORD10134,C009,P202,09/04/2025,18/04/2025,Mohit Verma,Male,07/04/1994,Hyderabad,South,Home Appliances,Iron,6,2200,5,12540,4,Cash,Rahul,mohit.verma@company.com,9426459149,Completed
+ORD10135,C010,P201,15/06/2025,27/06/2025,Pooja Shah,Female,02/10/2003,Delhi,North,Home Appliances,Mixer,3,3500,5,9975,4,NetBanking,Rahul,pooja.shah@company.com,9155925975,Pending
+ORD10136,C009,P203,08/06/2025,10/06/2025,Mohit Verma,Male,14/07/1997,Hyderabad,South,Home Appliances,Microwave,5,8500,20,34000,5,Cash,Aisha,mohit.verma@company.com,9945247701,Pending
+ORD10137,C008,P201,25/07/2025,01/08/2025,Kavya Nair,Female,09/08/1979,Bengaluru,South,Home Appliances,Mixer,14,3500,10,44100,4,UPI,Ritika,kavya.nair@company.com,9597378398,Cancelled
+ORD10138,C001,P303,16/01/2025,21/01/2025,Amit Sharma,Male,20/10/2002,Ahmedabad,West,Stationery,Marker,8,45,0,360,1,Card,Karan,amit.sharma@company.com,9343963736,Cancelled
+ORD10139,C005,P303,04/02/2025,05/02/2025,Vikas Mehta,Male,24/07/1985,Delhi,North,Stationery,Marker,11,45,5,470.25,3,Card,Rahul,vikas.mehta@company.com,9548742147,Completed
+ORD10140,C007,P101,22/01/2025,30/01/2025,Arjun Rao,Male,23/08/1988,Ahmedabad,West,Electronics,Laptop,19,55000,0,1045000,2,Card,Ritika,arjun.rao@company.com,9912945471,Cancelled
+ORD10141,C010,P201,11/04/2025,18/04/2025,Pooja Shah,Female,09/01/1979,Pune,West,Home Appliances,Mixer,20,3500,20,56000,4,NetBanking,Rahul,pooja.shah@company.com,9912630684,Completed
+ORD10142,C007,P202,04/07/2025,14/07/2025,Arjun Rao,Male,25/08/1986,Pune,West,Home Appliances,Iron,17,2200,0,37400,5,NetBanking,Ritika,arjun.rao@company.com,9114017237,Pending
+ORD10143,C007,P103,22/01/2025,29/01/2025,Arjun Rao,Male,01/04/1977,Pune,West,Electronics,Keyboard,10,1200,5,11400,2,Cash,Rahul,arjun.rao@company.com,9872471236,Cancelled
+ORD10144,C005,P301,17/12/2025,18/12/2025,Vikas Mehta,Male,04/08/1983,Hyderabad,South,Stationery,Notebook,3,60,0,180,4,NetBanking,Karan,vikas.mehta@company.com,9461383824,Completed
+ORD10145,C010,P202,10/10/2025,21/10/2025,Pooja Shah,Female,07/04/1978,Mumbai,West,Home Appliances,Iron,18,2200,10,35640,1,Card,Karan,pooja.shah@company.com,9243407457,Cancelled
+ORD10146,C009,P301,07/03/2026,10/03/2026,Mohit Verma,Male,04/03/1983,Delhi,North,Stationery,Notebook,18,60,5,1026,3,Card,Rahul,mohit.verma@company.com,9418672379,Pending
+ORD10147,C003,P101,16/08/2025,23/08/2025,Rohit Singh,Male,27/10/1987,Pune,West,Electronics,Laptop,11,55000,15,514250,4,UPI,Neha,rohit.singh@company.com,9222733065,Cancelled
+ORD10148,C006,P203,23/12/2025,03/01/2026,Sneha Joshi,Female,19/04/2003,Kolkata,East,Home Appliances,Microwave,5,8500,5,40375,4,Cash,Karan,sneha.joshi@company.com,9684246902,Completed
+ORD10020,C002,P102,08/09/2025,19/09/2025,Priya Patel,Female,14/02/2002,Jaipur,North,Electronics,Mouse,16,700,15,9520,4,Card,Aisha,priya.patel@company.com,9989580228,Completed
+ORD10150,C003,P102,07/07/2025,13/07/2025,Rohit Singh,Male,05/07/1975,Pune,West,Electronics,Mouse,6,700,10,3780,4,Cash,Rahul,rohit.singh@company.com,9110269572,Cancelled
+ORD10151,C010,P201,03/05/2026,15/05/2026,Pooja Shah,Female,05/03/1992,Delhi,North,Home Appliances,Mixer,20,3500,10,63000,4,UPI,Rahul,pooja.shah@company.com,9745972422,Pending
+ORD10152,C008,P302,29/11/2025,07/12/2025,Kavya Nair,Female,03/06/1998,Bengaluru,South,Stationery,Pen,2,20,10,36,1,NetBanking,Neha,kavya.nair@company.com,9123712257,Pending
+ORD10153,C002,P202,14/07/2025,19/07/2025,Priya Patel,Female,28/09/1996,Pune,West,Home Appliances,Iron,16,2200,20,28160,2,UPI,Karan,priya.patel@company.com,9665525431,Pending
+ORD10154,C005,P104,13/03/2025,23/03/2025,Vikas Mehta,Male,15/12/1995,Pune,West,Electronics,Monitor,15,12000,0,180000,1,Card,Aisha,vikas.mehta@company.com,9682415134,Pending
+ORD10155,C008,P301,22/07/2025,23/07/2025,Kavya Nair,Female,24/07/1976,Delhi,North,Stationery,Notebook,14,60,15,714,4,UPI,Rahul,kavya.nair@company.com,9808223872,Completed
+ORD10156,C010,P103,21/07/2025,24/07/2025,Pooja Shah,Female,22/06/1984,Hyderabad,South,Electronics,Keyboard,9,1200,5,10260,5,NetBanking,Aisha,pooja.shah@company.com,9193549730,Pending
+ORD10157,C005,P103,19/07/2025,29/07/2025,Vikas Mehta,Male,06/08/1998,Kolkata,East,Electronics,Keyboard,3,1200,10,3240,2,Card,Karan,vikas.mehta@company.com,9520617130,Cancelled
+ORD10158,C001,P301,10/04/2025,12/04/2025,Amit Sharma,Male,18/06/2001,Hyderabad,South,Stationery,Notebook,2,60,10,108,2,UPI,Aisha,amit.sharma@company.com,9264578122,Completed
+ORD10159,C009,P201,13/05/2026,23/05/2026,Mohit Verma,Male,11/09/1999,Delhi,North,Home Appliances,Mixer,9,3500,20,25200,1,NetBanking,Ritika,mohit.verma@company.com,9275071213,Completed
+ORD10160,C005,P101,13/03/2026,16/03/2026,Vikas Mehta,Male,07/12/1995,Jaipur,North,Electronics,Laptop,4,55000,5,209000,2,Cash,Karan,vikas.mehta@company.com,9715222543,Pending
+ORD10161,C001,P102,27/06/2025,01/07/2025,Amit    Sharma,Male,22/07/1999,Delhi,North,Electronics,Mouse,11,700,20,6160,4,Cash,Karan,amit.sharma@company.com,9942010833,Cancelled
+ORD10162,C004,P103,19/11/2025,29/11/2025,Anita Gupta,Female,14/11/2000,Kolkata,East,Electronics,Keyboard,16,1200,5,18240,1,Card,Ritika,anita.gupta@company.com,9347718932,Pending
+ORD10163,C004,P103,15/09/2025,17/09/2025,Anita Gupta,Female,24/07/2002,Pune,West,Electronics,Keyboard,1,1200,5,1140,4,Card,Ritika,anita.gupta@company.com,9274808844,Completed
+ORD10164,C001,P301,04/11/2025,13/11/2025,Amit    Sharma,Male,25/02/2002,Jaipur,North,Stationery,Notebook,7,60,0,420,2,UPI,Karan,amit.sharma@company.com,9798996063,Completed
+ORD10165,C004,P202,03/01/2025,07/01/2025,Anita Gupta,Female,16/07/1980,Pune,West,Home Appliances,Iron,14,2200,0,30800,2,UPI,Ritika,anita.gupta@company.com,9145200936,Cancelled
+ORD10166,C004,P201,19/06/2025,27/06/2025,Anita Gupta,Female,25/05/1996,Ahmedabad,West,Home Appliances,Mixer,15,3500,15,44625,2,UPI,Aisha,anita.gupta@company.com,9697654418,Pending
+ORD10167,C003,P201,26/03/2025,06/04/2025,Rohit Singh,Male,11/05/1986,Kolkata,East,Home Appliances,Mixer,19,3500,5,63175,2,Cash,Neha,rohit.singh@company.com,9457923119,Cancelled
+ORD10168,C001,P101,06/07/2025,10/07/2025,Amit Sharma,Male,25/05/1989,Bengaluru,South,Electronics,Laptop,12,55000,5,627000,4,Card,Aisha,amit.sharma@company.com,9236111271,Cancelled
+ORD10169,C010,P103,18/01/2026,26/01/2026,Pooja Shah,Female,25/08/1989,Mumbai,West,Electronics,Keyboard,6,1200,10,6480,5,NetBanking,Neha,pooja.shah@company.com,9402569141,Cancelled
+ORD10170,C006,P203,19/09/2025,20/09/2025,Sneha Joshi,Female,20/05/1997,Hyderabad,South,Home Appliances,Microwave,1,8500,0,8500,1,UPI,Karan,sneha.joshi@company.com,9138184056,Cancelled
+ORD10171,C003,P101,01/04/2026,07/04/2026,Rohit Singh,Male,03/05/1987,Ahmedabad,West,Electronics,Laptop,20,55000,10,990000,5,NetBanking,Karan,rohit.singh@company.com,9609598700,Completed
+ORD10172,C005,P103,28/10/2025,29/10/2025,Vikas Mehta,Male,02/12/2002,Ahmedabad,West,Electronics,Keyboard,8,1200,15,8160,2,UPI,Neha,vikas.mehta@company.com,9385894399,Cancelled
+ORD10173,C008,P201,06/02/2025,17/02/2025,Kavya Nair,Female,25/05/1986,Jaipur,North,Home Appliances,Mixer,19,3500,5,63175,4,UPI,Rahul,kavya.nair@company.com,9329448011,Pending
+ORD10174,C005,P303,27/04/2025,29/04/2025,       Vikas Mehta,Male,22/02/1986,Jaipur,North,Stationery,Marker,6,45,20,216,1,Card,Rahul,vikas.mehtacompany.com,9889544104,Pending
+ORD10175,C006,P303,14/03/2025,25/03/2025,Sneha Joshi,Female,07/04/1988,Pune,West,Stationery,Marker,17,45,15,650.25,5,Cash,Neha,sneha.joshi@company.com,9101861045,Pending
+ORD10176,C008,P302,04/07/2025,16/07/2025,Kavya Nair,Female,27/06/1993,Pune,West,Stationery,Pen,19,20,5,361,4,Cash,Ritika,kavya.nair@company.com,9364712105,Pending
+ORD10177,C006,P302,02/12/2025,03/12/2025,Sneha      Joshi,Female,18/06/2004,Ahmedabad,West,Stationery,Pen,11,20,0,220,3,NetBanking,Rahul,sneha.joshi@company.com,9950206376,Completed
+ORD10178,C004,P301,14/02/2026,21/02/2026,Anita Gupta,Female,09/09/1993,Delhi,North,Stationery,Notebook,12,60,0,720,2,NetBanking,Rahul,anita.gupta@company.com,9235822094,Completed
+ORD10179,C005,P303,09/11/2025,13/11/2025,Priya  Patel,Male,13/09/2001,Kolkata,East,Stationery,Marker,14,45,15,535.5,5,UPI,Neha,vikas.mehta@company.com,9311021344,Pending
+ORD10180,C008,P102,07/02/2025,19/02/2025,Kavya Nair,Female,15/11/1981,Hyderabad,South,Electronics,Mouse,15,700,10,9450,3,NetBanking,Rahul,kavya.nair@company.com,9891358505,Pending
+ORD10181,C002,P203,26/05/2025,30/05/2025,Priya Patel,Female,12/09/1980,Ahmedabad,West,Home Appliances,Microwave,19,8500,15,137275,2,Cash,Ritika,priya.patel@company.com,9910085332,Cancelled
+ORD10182,C006,P301,04/10/2025,06/10/2025,Sneha Joshi,Female,07/04/1988,Jaipur,North,Stationery,Notebook,19,60,20,912,4,Card,Rahul,sneha.joshi@company.com,9756908023,Pending
+ORD10183,C002,P303,15/05/2025,26/05/2025,Priya Patel,Female,19/02/1988,Bengaluru,South,Stationery,Marker,10,45,15,382.5,4,Cash,Karan,priya.patel@company.com,9645913247,Completed
+ORD10184,C009,P202,14/06/2025,23/06/2025,Mohit Verma,Male,03/12/1981,Delhi,North,Home Appliances,Iron,7,2200,20,12320,5,UPI,Rahul,mohit.verma@company.com,9806914795,Pending
+ORD10185,C002,P203,22/04/2025,04/05/2025,Priya Patel,Female,11/02/1984,Kolkata,East,Home Appliances,Microwave,20,8500,20,136000,4,NetBanking,Ritika,priya.patel@company.com,9276222829,Completed
+ORD10186,C006,P202,22/01/2025,24/01/2025,Sneha Joshi,Female,07/12/1991,Hyderabad,South,Home Appliances,Iron,10,2200,5,20900,2,NetBanking,Rahul,sneha.joshi@company.com,9533835528,Completed
+ORD10187,C003,P301,16/12/2025,26/12/2025,Rohit Singh,Male,21/02/1976,Pune,West,Stationery,Notebook,15,60,20,720,1,Card,Ritika,rohit.singh@company.com,9654885820,Completed
+ORD10188,C005,P201,24/06/2025,28/06/2025,Vikas Mehta,Male,28/08/1975,Hyderabad,South,Home Appliances,Mixer,18,3500,5,59850,1,Card,Rahul,vikas.mehta@company.com,9456029544,Cancelled
+ORD10189,C001,P104,12/05/2026,22/05/2026,Amit Sharma,Male,05/12/1987,Pune,West,Electronics,Monitor,6,12000,5,68400,1,NetBanking,Rahul,amit.sharma@company.com,9914571493,Cancelled
+ORD10190,C001,P302,14/02/2026,16/02/2026,Amit Sharma,Male,26/08/2004,Bengaluru,South,Stationery,Pen,19,20,10,342,2,NetBanking,Ritika,amit.sharma@company.com,9270726986,Pending
+ORD10191,C005,P202,13/05/2026,20/05/2026,Vikas Mehta,Male,16/01/1994,Pune,West,Home Appliances,Iron,7,2200,0,15400,1,Card,Neha,vikas.mehta@company.com,9570080664,Cancelled
+ORD10192,C001,P104,16/11/2025,20/11/2025,Amit Sharma,Male,28/10/2003,Jaipur,North,Electronics,Monitor,3,12000,5,34200,3,Card,Aisha,amit.sharma@company.com,9109009524,Cancelled
+ORD10193,C004,P202,23/10/2025,04/11/2025,Anita Gupta,Female,16/05/2000,Jaipur,North,Home Appliances,Iron,16,2200,0,35200,5,Card,Ritika,anita.gupta@company.com,9701276770,Pending
+ORD10194,C006,P202,16/02/2025,18/02/2025,Sneha Joshi,Female,04/07/1989,Delhi,North,Home Appliances,Iron,8,2200,5,16720,2,UPI,Karan,sneha.joshi@company.com,9298278507,Completed
+ORD10195,C006,P202,11/12/2025,14/12/2025,Sneha Joshi,Female,09/03/1998,Ahmedabad,West,Home Appliances,Iron,10,2200,10,19800,5,NetBanking,Neha,sneha.joshi@company.com,9895908093,Pending
+ORD10196,C007,P302,28/04/2025,09/05/2025,Arjun Rao,Male,21/05/1988,Delhi,North,Stationery,Pen,7,20,10,126,4,Card,Aisha,arjun.rao@company.com,9734108795,Completed
+ORD10197,C005,P203,11/01/2026,14/01/2026,Vikas Mehta,Male,18/07/1994,Hyderabad,South,Home Appliances,Microwave,19,8500,20,129200,3,NetBanking,Aisha,vikas.mehta@company.com,9799597413,Pending
+ORD10198,C002,P301,01/03/2025,06/03/2025,Priya Patel,Female,15/11/1977,Pune,West,Stationery,Notebook,16,60,0,960,2,NetBanking,Neha,priya.patel@company.com,9688987266,Completed
+ORD10199,C005,P201,15/04/2026,27/04/2026,Vikas Mehta,Male,22/09/1982,Bengaluru,South,Stationary,Mixer,18,3500,5,59850,1,UPI,Neha,vikas.mehta@company.com,9867169037,Pending
+ORD10200,C002,P101,20/02/2025,01/03/2025,Priya Patel,Female,14/09/1994,Jaipur,North,Electronics,Laptop,16,55000,0,880000,1,Card,Aisha,priya.patel@company.com,9485547425,Cancelled
+ORD10201,C005,P103,06/02/2025,09/02/2025,Vikas Mehta,Male,02/12/1995,Ahmedabad,West,Electronics,Keyboard,18,1200,15,18360,2,NetBanking,Ritika,vikas.mehta@company.com,9889733076,Cancelled
+ORD10202,C009,P303,24/05/2025,27/05/2025,Mohit Verma,Male,10/07/1985,Hyderabad,South,Stationery,Marker,2,45,15,76.5,5,Cash,Aisha,mohit.verma@company.com,9145434449,Cancelled
+ORD10203,C010,P203,06/01/2026,12/01/2026,Pooja Shah,Female,25/03/2001,Bengaluru,South,Home Appliances,Microwave,20,8500,0,170000,4,NetBanking,Aisha,pooja.shah@company.com,9598942148,Cancelled
+ORD10204,C003,P201,08/03/2026,09/03/2026,Rohit Singh,Male,27/04/1981,Jaipur,North,Home Appliances,Mixer,6,3500,5,19950,1,Cash,Karan,rohit.singh@company.com,9599252705,Completed
+ORD10205,C004,P303,05/10/2025,09/10/2025,Anita Gupta,Female,14/01/2003,Pune,West,Stationery,Marker,8,45,5,342,2,Cash,Rahul,anita.gupta@company.com,9626843681,Pending
+ORD10206,C001,P202,06/03/2025,12/03/2025,Amit Sharma,Male,02/10/1980,Mumbai,West,Home Appliances,Iron,18,2200,15,33660,4,Card,Aisha,amit.sharma@company.com,9934933215,Pending
+ORD10207,C005,P102,06/04/2026,15/04/2026,Vikas Mehta,Male,24/10/1990,Hyderabad,South,Electronics,Mouse,18,700,15,10710,3,Card,Karan,vikas.mehta@company.com,9508025585,Cancelled
+ORD10208,C001,P101,17/01/2026,20/01/2026,Amit Sharma,Male,24/09/1977,Pune,West,Electronics,Laptop,12,55000,0,660000,2,UPI,Rahul,amit.sharma@company.com,9364681052,Cancelled
+ORD10209,C008,P104,15/11/2025,24/11/2025,Kavya Nair,Female,02/10/1996,Mumbai,West,Electronics,Monitor,7,12000,5,79800,3,Card,Karan,kavya.nair@company.com,9117102884,Pending
+ORD10210,C006,P104,21/09/2025,23/09/2025,Sneha Joshi,Female,17/05/1976,Mumbai,West,Electronics,Monitor,8,12000,15,81600,4,Card,Rahul,sneha.joshi@company.com,9819453185,Completed
+ORD10211,C001,P201,18/12/2025,27/12/2025,Amit Sharma,Male,09/12/1987,Mumbai,West,Home Appliances,Mixer,19,3500,5,63175,3,Card,Aisha,amit.sharma@company.com,9511806701,Pending
+ORD10212,C006,P303,06/02/2025,16/02/2025,Sneha Joshi,Female,16/07/1990,Ahmedabad,West,Stationery,Marker,7,45,5,299.25,3,Card,Ritika,sneha.joshi@company.com,9875249891,Cancelled
+ORD10213,C008,P301,02/06/2025,08/06/2025,Kavya Nair,Female,09/08/1991,Hyderabad,South,Stationery,Notebook,3,60,15,153,3,NetBanking,Rahul,kavya.nair@company.com,9438232503,Cancelled
+ORD10214,C010,P303,22/04/2026,04/05/2026,Pooja Shah,Female,26/12/1977,Pune,West,Stationery,Marker,19,45,0,855,2,Cash,Aisha,pooja.shah@company.com,9449953754,Completed
+ORD10215,C002,P104,06/03/2026,16/03/2026,Priya Patel,Female,04/06/1995,Bengaluru,South,Electronics,Monitor,10,12000,5,114000,1,Card,Neha,priya.patel@company.com,9833801891,Cancelled
+ORD10216,C008,P103,28/02/2025,12/03/2025,Kavya Nair,Female,16/11/1983,Kolkata,East,Electronics,Keyboard,4,1200,0,4800,4,Cash,Aisha,kavya.nair@company.com,9183949273,Completed
+ORD10217,C005,P203,31/10/2025,07/11/2025,Vikas Mehta,Male,10/10/1985,Bengaluru,South,Home Appliances,Microwave,2,8500,20,13600,3,Card,Karan,vikas.mehta@company.com,9168257367,Completed
+ORD10218,C007,P102,30/01/2026,08/02/2026,Arjun Rao,Male,07/01/2002,Kolkata,East,Electronics,Mouse,7,700,20,3920,2,Card,Karan,arjun.rao@company.com,9580903210,Pending
+ORD10219,C010,P302,29/04/2026,03/05/2026,Pooja Shah,Female,18/07/1999,Pune,West,Stationery,Pen,9,20,15,153,3,NetBanking,Neha,pooja.shah@company.com,9602152945,Completed
+ORD10220,C002,P203,18/05/2025,20/05/2025,Priya Patel,Female,02/09/1990,Kolkata,East,Home Appliances,Microwave,16,8500,0,136000,4,NetBanking,Ritika,priya.patel@company.com,9646917552,Completed
+ORD10221,C006,P201,26/03/2026,28/03/2026,Sneha Joshi,Female,02/08/1992,Delhi,North,Home Appliances,Mixer,10,3500,5,33250,3,NetBanking,Neha,sneha.joshi@company.com,9127548552,Completed
+ORD10222,C010,P104,19/01/2026,27/01/2026,Pooja Shah,Female,09/02/1980,Kolkata,East,Electronics,Monitor,1,12000,0,12000,5,UPI,Neha,pooja.shah@company.com,9712805603,Pending
+ORD10223,C001,P303,02/05/2026,10/05/2026,Amit Sharma,Male,18/02/1989,Kolkata,East,Stationery,Marker,19,45,15,726.75,2,UPI,Karan,amit.sharma@company.com,9798313682,Pending
+ORD10224,C008,P101,31/10/2025,02/11/2025,Kavya Nair,Female,10/09/1993,Delhi,North,Electronics,Laptop,13,55000,5,679250,4,Card,Rahul,kavya.nair@company.com,9642822397,Cancelled
+ORD10225,C007,P303,20/07/2025,26/07/2025,Arjun Rao,Male,17/11/1981,Mumbai,West,Stationery,Marker,2,45,15,76.5,1,NetBanking,Neha,arjun.rao@company.com,9490067655,Completed
+ORD10226,C002,P302,19/02/2025,24/02/2025,Priya Patel,Female,24/08/2003,Hyderabad,South,Stationery,Pen,8,20,15,136,1,Card,Ritika,priya.patel@company.com,9389792144,Pending
+ORD10227,C004,P104,20/04/2025,01/05/2025,Anita Gupta,Female,19/07/1985,Hyderabad,South,Electronics,Monitor,9,12000,5,102600,2,Card,Ritika,anita.gupta@company.com,9736113863,Cancelled
+ORD10228,C009,P201,05/06/2025,13/06/2025,Mohit Verma,Male,10/05/1994,Kolkata,East,Home Appliances,Mixer,3,3500,15,8925,1,Cash,Rahul,mohit.verma@company.com,9324634732,Cancelled
+ORD10229,C002,P102,20/05/2025,23/05/2025,Priya Patel,Female,23/03/1993,Hyderabad,South,Electronics,Mouse,18,700,20,10080,1,Card,Karan,priya.patel@company.com,9529968110,Completed
+ORD10230,C009,P201,24/01/2026,31/01/2026,Mohit Verma,Male,13/06/1979,Pune,West,Home Appliances,Mixer,14,3500,5,46550,1,Cash,Aisha,mohit.verma@company.com,9102417647,Completed
+ORD10231,C002,P102,02/06/2025,04/06/2025,Priya Patel,Female,24/01/1991,Kolkata,East,Electronics,Mouse,6,700,5,3990,5,Cash,Ritika,priya.patel@company.com,9630302865,Completed
+ORD10232,C002,P201,11/06/2025,19/06/2025,Priya Patel,Female,22/02/2004,Mumbai,West,Home Appliances,Mixer,17,3500,15,50575,3,NetBanking,Rahul,priya.patel@company.com,9465353780,Pending
+ORD10233,C006,P302,16/01/2026,24/01/2026,Sneha Joshi,Female,25/04/1977,Kolkata,East,Stationery,Pen,7,20,5,133,2,UPI,Karan,sneha.joshi@company.com,9837426414,Completed
+ORD10234,C008,P202,20/02/2026,04/03/2026,Kavya Nair,Female,22/07/1994,Bengaluru,South,Home Appliances,Iron,15,2200,20,26400,2,Cash,Aisha,kavya.nair@company.com,9249918272,Completed
+ORD10235,C009,P302,17/02/2026,25/02/2026,Mohit Verma,Male,11/11/1979,Mumbai,West,Stationery,Pen,5,20,0,100,3,Cash,Karan,mohit.verma@company.com,9265580582,Completed
+ORD10236,C003,P104,09/07/2025,14/07/2025,Rohit Singh,Male,27/05/1995,Delhi,North,Electronics,Monitor,8,12000,20,76800,3,Card,Aisha,rohit.singh@company.com,9751049833,Pending
+ORD10237,C003,P201,08/02/2025,16/02/2025,Rohit Singh,Male,18/06/1998,Mumbai,West,Home Appliances,Mixer,4,3500,20,11200,1,Card,Neha,rohit.singh@company.com,9741671507,Completed
+ORD10238,C005,P303,25/02/2025,04/03/2025,Vikas Mehta,Male,21/01/1983,Hyderabad,South,Stationery,Marker,19,45,10,769.5,1,Cash,Neha,vikas.mehta@company.com,9367541035,Completed
+ORD10239,C010,P303,27/01/2026,06/02/2026,Pooja Shah,Female,03/03/1978,Pune,West,Stationery,Marker,10,45,0,450,4,UPI,Aisha,pooja.shah@company.com,9323696971,Completed
+ORD10240,C010,P303,08/01/2026,17/01/2026,Pooja Shah,Female,24/06/1997,Hyderabad,South,Stationery,Marker,16,45,15,612,3,Cash,Neha,pooja.shah@company.com,9786384529,Cancelled
+ORD10241,C004,P203,25/03/2025,27/03/2025,Anita Gupta,Female,25/08/1976,Pune,West,Home Appliances,Microwave,16,8500,15,115600,4,NetBanking,Ritika,anita.gupta@company.com,9444900541,Cancelled
+ORD10242,C004,P302,01/09/2025,12/09/2025,Anita Gupta,Female,04/04/1996,Kolkata,East,Stationery,Pen,15,20,20,240,3,NetBanking,Rahul,anita.gupta@company.com,9108024911,Cancelled
+ORD10243,C007,P301,09/01/2026,13/01/2026,Arjun Rao,Male,09/10/2001,Bengaluru,South,Stationery,Notebook,14,60,5,798,4,Cash,Rahul,arjun.rao@company.com,9897181325,Completed
+ORD10244,C010,P103,16/05/2026,19/05/2026,Pooja Shah,Female,11/04/1995,Mumbai,West,Electronics,Keyboard,19,1200,20,18240,2,Cash,Neha,pooja.shah@company.com,9554719621,Cancelled
+ORD10245,C008,P303,13/10/2025,14/10/2025,Kavya Nair,Female,04/05/2000,Bengaluru,South,Stationery,Marker,5,45,15,191.25,2,Cash,Aisha,kavya.nair@company.com,9815899217,Cancelled
+ORD10246,C001,P102,25/05/2025,01/06/2025,Amit Sharma,Male,01/03/2002,Hyderabad,South,Electronics,Mouse,19,700,5,12635,5,UPI,Karan,amit.sharma@company.com,9308497039,Completed
+ORD10247,C003,P301,03/01/2026,04/01/2026,Rohit Singh,Male,27/05/1975,Kolkata,East,Stationery,Notebook,7,60,0,420,4,Cash,Neha,rohit.singh@company.com,9882054354,Pending
+ORD10248,C009,P202,22/12/2025,02/01/2026,Mohit Verma,Male,02/12/1988,Mumbai,West,Home Appliances,Iron,13,2200,10,25740,1,Card,Karan,mohit.verma@company.com,9193016830,Completed
+ORD10249,C009,P202,28/12/2025,05/01/2026,Mohit Verma,Male,06/12/1984,Bengaluru,South,Home Appliances,Iron,9,2200,10,17820,2,Crypto,Aisha,mohit.verma@company.com,9921470418,Cancelled
+ORD10250,C001,P203,15/05/2025,17/05/2025,Amit Sharma,Male,01/05/1990,Bengaluru,South,Home Appliances,Microwave,6,8500,15,43350,2,Cash,Karan,amit.sharma@company.com,9686979026,Cancelled
+ORD10251,C005,P202,17/02/2026,25/02/2026,Vikas Mehta,Male,09/02/1988,Delhi,North,Home Appliances,Iron,9,2200,10,17820,3,Card,Ritika,vikas.mehta@company.com,9569007422,Pending
+ORD10252,C008,P203,23/03/2025,26/03/2025,Kavya Nair,Female,28/03/1982,Kolkata,East,Home Appliances,Microwave,16,8500,0,136000,5,UPI,Neha,kavya.nair@company.com,9180820441,Cancelled
+ORD10253,C001,P103,15/12/2025,16/12/2025,Amit Sharma,Male,28/12/1976,Delhi,North,Electronics,Keyboard,10,1200,15,10200,5,Cash,Rahul,amit.sharma@company.com,9769075826,Completed
+ORD10254,C003,P104,05/03/2025,15/03/2025,Rohit Singh,Male,03/08/2003,Kolkata,East,Electronics,Monitor,7,12000,0,84000,1,UPI,Karan,rohit.singh@company.com,9467916296,Pending
+ORD10255,C005,P104,19/09/2025,01/10/2025,Vikas Mehta,Male,06/05/1986,Pune,West,Electronics,Monitor,3,12000,10,32400,4,Card,Karan,vikas.mehta@company.com,9477052923,Completed
+ORD10256,C005,P104,03/11/2025,09/11/2025,Vikas Mehta,Male,04/02/1989,Hyderabad,South,Electronics,Monitor,4,12000,15,40800,3,Card,Ritika,vikas.mehta@company.com,9184311420,Pending
+ORD10257,C003,P104,16/06/2025,18/06/2025,Rohit Singh,Male,08/02/1980,Hyderabad,South,Electronics,Monitor,13,12000,10,140400,2,Cash,Karan,rohit.singh@company.com,9630913127,Cancelled
+ORD10258,C008,P201,04/06/2025,11/06/2025,Kavya Nair,Female,13/01/1985,Bengaluru,South,Home Appliances,Mixer,19,3500,20,53200,1,Cash,Aisha,kavya.nair@company.com,9997515828,Cancelled
+ORD10259,C008,P202,07/02/2025,12/02/2025,Kavya Nair,Female,24/07/1979,Mumbai,West,Home Appliances,Iron,7,2200,5,14630,3,UPI,Aisha,kavya.nair@company.com,9394291182,Cancelled
+ORD10260,C007,P102,09/05/2026,13/05/2026,Arjun Rao,Male,03/08/1993,Jaipur,North,Electronics,Mouse,18,700,5,11970,2,UPI,Aisha,arjun.rao@company.com,9616853220,Cancelled
+ORD10261,C008,P302,20/07/2025,30/07/2025,Kavya Nair,Female,23/08/1975,Kolkata,East,Stationery,Pen,11,20,0,220,2,NetBanking,Neha,kavya.nair@company.com,9147552626,Cancelled
+ORD10262,C001,P104,28/02/2025,07/03/2025,Amit Sharma,Male,23/04/1978,Pune,West,Electronics,Monitor,17,12000,20,163200,4,UPI,Karan,amit.sharma@company.com,9724197033,Completed
+ORD10263,C006,P202,08/07/2025,13/07/2025,Sneha Joshi,Female,25/09/2003,Kolkata,East,Home Appliances,Iron,4,2200,5,8360,2,Cash,Ritika,sneha.joshi@company.com,9130666128,Completed
+ORD10264,C008,P101,12/12/2025,19/12/2025,Kavya Nair,Female,09/04/2002,Ahmedabad,West,Electronics,Laptop,6,55000,20,264000,2,UPI,Karan,kavya.nair@company.com,9866567601,Cancelled
+ORD10265,C009,P203,04/01/2026,14/01/2026,Mohit Verma,Male,24/09/1985,Delhi,North,Home Appliances,Microwave,6,8500,10,45900,5,UPI,Aisha,mohit.verma@company.com,9477282450,Completed
+ORD10266,C008,P302,20/08/2025,25/08/2025,Kavya Nair,Female,12/12/1984,Jaipur,North,Stationery,Pen,6,20,15,102,2,UPI,Rahul,kavya.nair@company.com,9857621478,Cancelled
+ORD10267,C010,P301,03/05/2025,11/05/2025,Pooja Shah,Female,20/07/1984,Mumbai,West,Stationery,Notebook,6,60,5,342,1,NetBanking,Aisha,pooja.shah@company.com,9753869055,Completed
+ORD10268,C003,P203,09/01/2025,12/01/2025,Rohit Singh,Male,15/03/1988,Hyderabad,South,Home Appliances,Microwave,19,8500,0,161500,5,UPI,Karan,rohit.singh@company.com,9663266204,Completed
+ORD10269,C006,P101,01/09/2025,10/09/2025,Sneha Joshi,Female,27/05/1987,Jaipur,North,Electronics,Laptop,8,55000,0,440000,3,Card,Neha,sneha.joshi@company.com,9675208616,Pending
+ORD10270,C009,P104,02/05/2026,07/05/2026,Mohit Verma,Male,25/10/1988,Kolkata,East,Electronics,Monitor,18,12000,20,172800,5,UPI,Aisha,mohit.verma@company.com,9618393586,Cancelled
+ORD10271,C003,P203,17/04/2025,26/04/2025,Rohit Singh,Male,12/12/1990,Ahmedabad,West,Home Appliances,Microwave,8,8500,5,64600,2,Card,Aisha,rohit.singh@company.com,9137027840,Cancelled
+ORD10272,C008,P302,09/08/2025,18/08/2025,Kavya Nair,Female,23/02/1981,Mumbai,West,Stationery,Pen,13,20,5,247,3,NetBanking,Neha,kavya.nair@company.com,9362758134,Pending
+ORD10273,C007,P301,04/04/2026,16/04/2026,Arjun Rao,Male,03/04/1985,Jaipur,North,Stationery,Notebook,1,60,15,51,2,Card,Aisha,arjun.rao@company.com,9648541985,Cancelled
+ORD10274,C010,P302,22/06/2025,28/06/2025,Pooja Shah,Female,06/08/1976,Pune,West,Stationery,Pen,5,20,5,95,2,NetBanking,Rahul,pooja.shah@company.com,9175002781,Pending
+ORD10275,C005,P302,19/05/2025,24/05/2025,Vikas Mehta,Male,13/05/1978,Kolkata,East,Stationery,Pen,19,20,20,304,3,Cash,Ritika,vikas.mehta@company.com,9786241263,Cancelled
+ORD10276,C002,P303,29/03/2025,07/04/2025,Priya Patel,Female,19/08/1998,Ahmedabad,West,Stationery,Marker,17,45,5,726.75,4,Cash,Neha,priya.patel@company.com,9691078176,Pending
+ORD10277,C007,P102,18/02/2026,22/02/2026,Arjun Rao,Male,20/10/1975,Bengaluru,South,Electronics,Mouse,8,700,15,4760,4,NetBanking,Ritika,arjun.rao@company.com,9336679085,Pending
+ORD10278,C004,P202,21/01/2026,29/01/2026,Anita Gupta,Female,28/09/1975,Mumbai,West,Home Appliances,Iron,15,2200,10,29700,5,UPI,Karan,anita.gupta@company.com,9497351043,Completed
+ORD10279,C002,P202,17/09/2025,29/09/2025,Priya Patel,Female,23/09/2002,Mumbai,West,Home Appliances,Iron,1,2200,0,2200,4,Cash,Rahul,priya.patel@company.com,9357038998,Cancelled
+ORD10280,C006,P201,19/06/2025,30/06/2025,Sneha Joshi,Female,17/06/1988,Ahmedabad,West,Home Appliances,Mixer,10,3500,10,31500,4,NetBanking,Ritika,sneha.joshi@company.com,9986371291,Cancelled
+ORD10281,C009,P201,12/05/2025,16/05/2025,Mohit Verma,Male,02/02/1991,Jaipur,North,Home Appliances,Mixer,16,3500,15,47600,1,Card,Neha,mohit.verma@company.com,9397839191,Pending
+ORD10282,C006,P104,06/09/2025,18/09/2025,Sneha Joshi,Female,09/08/1978,Jaipur,North,Electronics,Monitor,1,12000,0,12000,4,NetBanking,Neha,sneha.joshi@company.com,9162975843,Cancelled
+ORD10283,C007,P102,23/04/2025,29/04/2025,Arjun Rao,Male,02/02/1994,Mumbai,West,Electronics,Mouse,6,700,20,3360,2,NetBanking,Neha,arjun.rao@company.com,9237616558,Pending
+ORD10284,C009,P202,21/02/2026,27/02/2026,Mohit Verma,Male,28/03/1995,Ahmedabad,West,Home Appliances,Iron,3,2200,0,6600,4,Card,Ritika,mohit.verma@company.com,9935063989,Completed
+ORD10285,C006,P303,28/12/2025,01/01/2026,Sneha Joshi,Female,12/03/1992,Hyderabad,South,Stationery,Marker,6,45,15,229.5,1,UPI,Rahul,sneha.joshi@company.com,9167376169,Completed
+ORD10286,C006,P103,22/09/2025,30/09/2025,Sneha Joshi,Female,23/01/1981,Bengaluru,South,Electronics,Keyboard,2,1200,0,2400,1,Cash,Karan,sneha.joshi@company.com,9231845497,Cancelled
+ORD10287,C004,P102,08/05/2026,11/05/2026,Anita Gupta,Female,28/09/1984,Hyderabad,South,Electronics,Mouse,14,700,15,8330,5,Cash,Neha,anita.gupta@company.com,9409415805,Pending
+ORD10288,C002,P302,05/11/2025,06/11/2025,Priya Patel,Female,06/11/1975,Mumbai,West,Stationery,Pen,13,20,5,247,1,Card,Ritika,priya.patecompany.com,9240800508,Pending
+ORD10289,C009,P202,08/03/2025,15/03/2025,Mohit Verma,Male,26/06/1995,Pune,West,Home Appliances,Iron,3,2200,0,6600,4,NetBanking,Aisha,mohit.verma@company.com,9764609936,Cancelled
+ORD10290,C009,P301,09/02/2026,21/02/2026,Mohit Verma,Male,21/11/1979,Pune,West,Stationery,Notebook,3,60,15,153,4,UPI,Neha,mohit.verma@company.com,9362733217,Completed
+ORD10291,C003,P201,17/03/2025,23/03/2025,Rohit Singh,Male,28/01/1987,Mumbai,West,Home Appliances,Mixer,9,3500,5,29925,1,Cash,Aisha,rohit.singh@company.com,9270466205,Pending
+ORD10292,C001,P103,27/03/2025,01/04/2025,Amit Sharma,Male,08/02/2001,Jaipur,North,Electronics,Keyboard,5,1200,20,4800,2,UPI,Neha,amit.sharma@company.com,9571436865,Pending
+ORD10293,C010,P103,12/03/2025,14/03/2025,Pooja Shah,Female,14/12/1989,Jaipur,North,Electronics,Keyboard,10,1200,20,9600,4,Cash,Rahul,Pooja.shah@company.com,9307011171,Completed
+ORD10294,C008,P103,13/02/2026,24/02/2026,Kavya Nair,Female,15/12/1988,Ahmedabad,West,Electronics,Keyboard,5,1200,20,4800,3,NetBanking,Karan,kavya.nair@company.com,9922380435,Completed
+ORD10295,C004,P302,11/02/2025,14/02/2025,Anita Gupta,Female,20/10/1990,Mumbai,West,Stationery,Pen,10,20,5,190,4,Cash,Karan,anita.gupta@company.com,9463618792,Pending
+ORD10296,C002,P301,17/01/2025,27/01/2025,Priya Patel,Female,08/09/1978,Delhi,North,Stationery,Notebook,20,60,15,1020,5,Card,Ritika,priya.patel@company.com,9954973200,Pending
+ORD10297,C001,P202,01/04/2025,12/04/2025,Amit Sharma,Male,09/02/1978,Ahmedabad,West,Home Appliances,Iron,7,2200,15,13090,4,Cash,Aisha,amit.sharma@company.com,9383199236,Cancelled
+ORD10298,C003,P101,13/01/2025,16/01/2025,Rohit Singh,Male,03/01/2004,Hyderabad,South,Electronics,Laptop,11,55000,5,574750,1,UPI,Ritika,rohit.singh@company.com,9482699727,Cancelled
+ORD10299,C007,P201,05/10/2025,17/10/2025,Arjun Rao,Male,02/05/1992,Jaipur,North,Home Appliances,Mixer,12,3500,0,42000,2,NetBanking,,arjun.rao@company.com,9332473934,Pending
+ORD10300,C009,P303,25/02/2026,08/03/2026,Mohit Verma,Male,26/01/2003,Hyderabad,South,Stationery,Marker,15,45,10,607.5,2,Cash,Karan,mohit.verma@company.com,9647657382,Pending
+ORD10301,C001,P303,16/05/2025,26/05/2025,Amit Sharma,Male,20/05/1987,Bengaluru,South,Stationery,Marker,13,45,0,585,5,NetBanking,Rahul,amit.sharma@company.com,9736797776,Pending
+ORD10302,C003,P101,02/01/2026,05/01/2026,Rohit Singh,Male,07/09/1975,Bengaluru,South,Electronics,Laptop,8,55000,0,440000,2,UPI,Karan,rohit.singh@company.com,9745773533,Cancelled
+ORD10303,C006,P101,23/07/2025,27/07/2025,Sneha Joshi,Female,10/08/1980,Delhi,North,Electronics,Laptop,4,55000,20,176000,5,Cash,Rahul,sneha.joshi@company.com,9246715757,Pending
+ORD10304,C008,P201,23/04/2026,26/04/2026,Kavya Nair,Female,07/04/1989,Ahmedabad,West,Home Appliances,Mixer,19,3500,5,63175,1,Card,Neha,kavya.nair@company.com,9904065774,Completed
+ORD10305,C005,P103,02/03/2025,06/03/2025,Vikas Mehta,Male,20/08/1998,Jaipur,North,Electronics,Keyboard,17,1200,15,17340,2,NetBanking,Rahul,vikas.mehta@company.com,9652985385,Completed
+ORD10306,C008,P202,09/02/2026,17/02/2026,Kavya Nair,Female,03/04/2001,Hyderabad,South,Home Appliances,Iron,8,2200,5,16720,3,Card,Neha,kavya.nair@company.com,9427001508,Pending
+ORD10307,C006,P102,16/02/2025,26/02/2025,Sneha Joshi,Female,05/03/1992,Mumbai,West,Electronics,Mouse,17,700,20,9520,4,NetBanking,Neha,sneha.joshi@company.com,9666803655,Completed
+ORD10308,C006,P203,28/08/2025,08/09/2025,Sneha Joshi,Female,28/12/1976,Pune,West,Home Appliances,Microwave,6,8500,15,43350,1,Cash,Aisha,sneha.joshi@company.com,9134878547,Completed
+ORD10309,C010,P201,06/10/2025,11/10/2025,Pooja Shah,Female,04/09/1986,Hyderabad,South,Home Appliances,Mixer,3,3500,10,9450,1,NetBanking,Rahul,pooja.shah@company.com,9253593557,Completed
+ORD10310,C009,P104,17/01/2025,29/01/2025,Mohit Verma,Male,14/08/1989,Ahmedabad,West,Electronics,Monitor,2,12000,20,19200,1,Card,Aisha,mohit.verma@company.com,9183094051,Completed
+ORD10311,C005,P302,13/10/2025,16/10/2025,Vikas Mehta,Male,02/03/1991,Delhi,North,Stationery,Pen,12,20,20,192,2,Card,Rahul,vikas.mehta@company.com,9293147620,Completed
+ORD10312,C002,P104,26/04/2026,28/04/2026,Priya Patel,Female,13/08/1989,Kolkata,East,Electronics,Monitor,20,12000,15,204000,3,Cash,Ritika,priya.patel@company.com,9755583734,Pending
+ORD10313,C010,P301,24/03/2026,04/04/2026,Pooja Shah,Female,02/02/2003,Jaipur,North,Stationery,Notebook,13,60,10,702,5,Cash,Ritika,pooja.shah@company.com,9186592813,Pending
+ORD10314,C009,P101,08/05/2025,19/05/2025,Mohit Verma,Male,16/11/1995,Pune,West,Electronics,Laptop,13,55000,5,679250,1,UPI,Karan,mohit.verma@company.com,9203482008,Pending
+ORD10315,C002,P103,07/03/2026,10/03/2026,Priya Patel,Female,24/11/1989,Bengaluru,South,Electronics,Keyboard,7,1200,15,7140,5,UPI,Rahul,priya.patel@company.com,9829888777,Pending
+ORD10316,C007,P104,26/12/2025,30/12/2025,Arjun Rao,Male,20/04/1988,Jaipur,North,Electronics,Monitor,17,12000,5,193800,1,Cash,Aisha,arjun.rao@company.com,9566101317,Cancelled
+ORD10317,C007,P302,19/04/2026,25/04/2026,Arjun Rao,Male,02/11/1978,Bengaluru,South,Stationery,Pen,10,20,5,190,2,Cash,Aisha,arjun.rao@company.com,9706240823,Cancelled
+ORD10318,C004,P202,05/11/2025,08/11/2025,Anita Gupta,Female,13/12/1989,Delhi,North,Home Appliances,Iron,11,2200,5,22990,5,Card,Rahul,anita.gupta@company.com,9259943760,Pending
+ORD10319,C002,P301,24/02/2026,28/02/2026,Priya Patel,Female,08/01/1995,Jaipur,North,Stationery,Notebook,8,60,15,408,4,Cash,Rahul,priya.patel@company.com,9527326977,Pending
+ORD10320,C005,P303,23/03/2025,25/03/2025,Vikas Mehta,Male,23/10/1994,Delhi,North,Stationery,Marker,17,45,15,650.25,2,UPI,Karan,vikas.mehta@company.com,9886970990,Completed
+ORD10321,C001,P102,27/02/2025,10/03/2025,Amit Sharma,Male,21/05/1996,Jaipur,North,Electronics,Mouse,14,700,15,8330,1,Card,Neha,amit.sharma@company.com,9106930369,Completed
+ORD10322,C007,P103,03/06/2025,14/06/2025,Arjun Rao,Male,26/05/1982,Pune,West,Electronics,Keyboard,3,1200,5,3420,3,NetBanking,Karan,arjun.rao@company.com,9342009114,Completed
+ORD10323,C008,P103,07/07/2025,16/07/2025,Kavya Nair,Female,22/11/2001,Ahmedabad,West,Electronics,Keyboard,9,1200,15,9180,3,Cash,Rahul,kavya.nair@company.com,9992739960,Completed
+ORD10324,C006,P302,20/04/2026,21/04/2026,Sneha Joshi,Female,26/02/1989,Mumbai,West,Stationery,Pen,5,20,5,95,4,Cash,Karan,sneha.joshi@company.com,9241987748,Completed
+ORD10325,C006,P202,10/12/2025,21/12/2025,Sneha Joshi,Female,18/08/1985,Ahmedabad,West,Home Appliances,Iron,8,2200,10,15840,4,UPI,Aisha,sneha.joshi@company.com,9571990711,Cancelled
+ORD10326,C006,P102,08/03/2026,12/03/2026,Sneha Joshi,Female,03/01/1980,Mumbai,West,Electronics,Mouse,10,700,20,5600,1,UPI,Neha,sneha.joshi@company.com,9219231183,Completed
+ORD10327,C007,P102,25/11/2025,28/11/2025,Arjun Rao,Male,08/01/1978,Bengaluru,South,Electronics,Mouse,2,700,20,1120,2,Cash,Neha,arjun.rao@company.com,9847386174,Pending
+ORD10328,C005,P201,19/06/2025,28/06/2025,Vikas Mehta,Male,05/08/1992,Pune,West,Home Appliances,Mixer,16,3500,20,44800,2,UPI,Ritika,vikas.mehta@company.com,9941274924,Pending
+ORD10329,C004,P201,22/07/2025,01/08/2025,Anita Gupta,Female,28/12/2004,Delhi,North,Home Appliances,Mixer,9,3500,20,25200,1,Card,Rahul,anita.gupta@company.com,9950650508,Cancelled
+ORD10330,C003,P102,29/10/2025,30/10/2025,Rohit Singh,Male,07/01/2003,Hyderabad,South,Electronics,Mouse,15,700,5,9975,1,Cash,Rahul,rohit.singh@company.com,9464035549,Cancelled
+ORD10331,C010,P103,05/03/2026,10/03/2026,Pooja Shah,Female,09/03/1993,Ahmedabad,West,Electronics,Keyboard,13,1200,0,15600,3,NetBanking,Neha,pooja.shah@company.com,9142334315,Cancelled
+ORD10332,C001,P104,26/08/2025,07/09/2025,Amit Sharma,Male,03/06/1993,Delhi,North,Electronics,Monitor,5,12000,10,54000,3,UPI,Rahul,amit.sharma@company.com,9123961962,Completed
+ORD10333,C010,P303,05/04/2025,08/04/2025,Pooja Shah,Female,10/12/1999,Bengaluru,South,Stationery,Marker,12,45,20,432,3,NetBanking,Aisha,pooja.shah@company.com,9741953402,Completed
+ORD10334,C008,P201,09/04/2025,14/04/2025,Kavya Nair,Female,06/06/1976,Bengaluru,South,Home Appliances,Mixer,2,3500,0,7000,1,NetBanking,Neha,kavya.nair@company.com,9404733633,Pending
+ORD10335,C008,P202,13/05/2026,16/05/2026,Kavya Nair,Female,27/10/1984,Pune,West,Home Appliances,Iron,15,2200,15,28050,2,NetBanking,Rahul,kavya.nair@company.com,9297492337,Pending
+ORD10336,C002,P302,04/12/2025,12/12/2025,Priya Patel,Female,28/02/1975,Ahmedabad,West,Stationery,Pen,8,20,20,128,5,UPI,Rahul,priya.patel@company.com,9350338928,Completed
+ORD10337,C003,P302,08/03/2026,10/03/2026,Rohit Singh,Male,19/10/1993,Hyderabad,South,Stationery,Pen,1,20,0,20,3,UPI,Ritika,rohit.singh@company.com,9933894798,Completed
+ORD10338,C008,P102,05/01/2026,16/01/2026,Kavya Nair,Female,25/10/1983,Jaipur,North,Electronics,Mouse,15,700,0,10500,2,UPI,Rahul,kavya.nair@company.com,9705218824,Completed
+ORD10339,C001,P201,07/02/2025,10/02/2025,Amit Sharma,Male,08/01/1983,Hyderabad,South,Home Appliances,Mixer,15,3500,10,47250,3,Cash,Karan,amit.sharma@company.com,9229164453,Pending
+ORD10340,C008,P301,28/07/2025,07/08/2025,Kavya Nair,Female,14/12/1983,Kolkata,East,Stationery,Notebook,16,60,10,864,4,Card,Aisha,kavya.nair@company.com,9219806176,Completed
+ORD10341,C003,P303,15/10/2025,21/10/2025,Rohit Singh,Male,26/09/1983,Delhi,North,Stationery,Marker,2,45,15,76.5,1,UPI,Karan,rohit.singh@company.com,9630210250,Cancelled
+ORD10342,C004,P301,06/12/2025,15/12/2025,Anita Gupta,Female,23/05/1975,Delhi,North,Stationery,Notebook,13,60,15,663,2,NetBanking,Aisha,anita.gupta@company.com,9583354052,Cancelled
+ORD10343,C007,P104,20/05/2025,22/05/2025,Arjun Rao,Male,09/11/1994,Delhi,North,Electronics,Monitor,15,12000,20,144000,3,Card,Ritika,arjun.rao@company.com,9242534507,Cancelled
+ORD10344,C001,P302,25/07/2025,02/08/2025,Amit Sharma,Male,17/12/1987,Delhi,North,Stationery,Pen,2,20,20,32,4,Cash,Ritika,amit.sharma@company.com,9291239150,Pending
+ORD10345,C003,P201,05/08/2025,17/08/2025,Rohit Singh,Male,19/06/1975,Bengaluru,South,Home Appliances,Mixer,16,3500,0,56000,4,Cash,Neha,rohit.singh@company.com,9550820904,Completed
+ORD10346,C010,P201,18/02/2026,25/02/2026,Pooja Shah,Female,09/01/1977,Ahmedabad,West,Home Appliances,Mixer,18,3500,15,53550,5,Cash,Karan,pooja.shah@company.com,9294486423,Cancelled
+ORD10347,C008,P303,21/03/2026,26/03/2026,Kavya Nair,Female,20/09/1993,Ahmedabad,West,Stationery,Marker,20,45,15,765,4,Cash,Karan,kavya.nair@company.com,9260258621,Cancelled
+ORD10348,C006,P202,16/04/2026,19/04/2026,Sneha Joshi,Female,05/03/1997,Delhi,North,Home Appliances,Iron,13,2200,15,24310,2,NetBanking,Neha,sneha.joshi@company.com,9697433584,Pending
+ORD10349,C010,P999,13/10/2025,14/10/2025,Pooja Shah,Female,10/07/2002,Kolkata,East,Home Appliances,Microwave,11,8500,5,88825,1,UPI,Neha,pooja.shah@company.com,9837969758,Cancelled
+ORD10350,C010,P202,05/12/2025,10/12/2025,Pooja Shah,Female,18/04/1984,Jaipur,North,Home Appliances,Iron,2,2200,0,4400,4,UPI,Karan,pooja.shah@company.com,9209736419,Pending
+ORD10351,C007,P102,30/07/2025,04/08/2025,Arjun Rao,Male,01/07/2003,Mumbai,West,Electronics,Mouse,15,700,15,8925,3,NetBanking,Neha,arjun.rao@company.com,9645907237,Completed
+ORD10352,C003,P202,18/07/2025,24/07/2025,Rohit Singh,Male,25/10/1992,Ahmedabad,West,Home Appliances,Iron,5,2200,15,9350,1,NetBanking,Neha,rohit.singh@company.com,9566149945,Pending
+ORD10353,C007,P103,11/03/2026,12/03/2026,Arjun Rao,Male,05/08/1988,Ahmedabad,West,Electronics,Keyboard,15,1200,0,18000,3,NetBanking,Aisha,arjun.rao@company.com,9935018068,Cancelled
+ORD10354,C006,P103,08/04/2026,10/04/2026,Sneha Joshi,Female,24/06/1987,Mumbai,West,Electronics,Keyboard,19,1200,0,22800,1,Cash,Rahul,sneha.joshi@company.com,9171794652,Cancelled
+ORD10355,C004,P104,18/09/2025,25/09/2025,Anita Gupta,Female,19/10/1989,Mumbai,West,Electronics,Monitor,9,12000,15,91800,3,UPI,Rahul,anita.gupta@company.com,9671497416,Cancelled
+ORD10356,C008,P303,11/10/2025,21/10/2025,Kavya Nair,Female,22/05/1992,Jaipur,North,Stationery,Marker,5,45,5,213.75,1,Card,Neha,kavya.nair@company.com,9810433484,Completed
+ORD10357,C006,P102,\,11/02/2025,Sneha Joshi,Female,10/11/1989,Mumbai,West,Electronics,Mouse,3,700,15,1785,4,Cash,Karan,sneha.joshi@company.com,9990243436,Completed
+ORD10358,C009,P203,14/12/2025,26/12/2025,Mohit Verma,Male,03/09/1980,Jaipur,North,Home Appliances,Microwave,12,8500,5,96900,3,Card,Aisha,mohit.verma@company.com,9396678031,Pending
+ORD10359,C006,P203,11/04/2026,19/04/2026,Sneha Joshi,Female,06/03/1979,Pune,West,Home Appliances,Microwave,4,8500,15,28900,4,NetBanking,Aisha,sneha.joshi@company.com,9818591245,Pending
+ORD10360,C003,P302,19/04/2025,22/04/2025,Rohit Singh,Male,04/09/1996,Jaipur,North,Stationery,Pen,16,20,10,288,4,Cash,Neha,rohit.singh@company.com,9505550047,Cancelled
+ORD10361,C003,P301,10/05/2026,18/05/2026,Rohit Singh,Male,14/03/1999,Mumbai,West,Stationery,Notebook,3,60,20,144,4,UPI,Karan,rohit.singh@company.com,9469828772,Pending
+ORD10362,C009,P202,20/07/2025,26/07/2025,Mohit Verma,Male,03/10/1984,Mumbai,West,Home Appliances,Iron,19,2200,10,37620,2,Cash,Karan,mohit.verma@company.com,9885092680,Pending
+ORD10363,C009,P103,23/01/2026,27/01/2026,Mohit Verma,Male,09/07/1984,Hyderabad,South,Electronics,Keyboard,7,1200,20,6720,3,Card,Neha,mohit.verma@company.com,9362319457,Cancelled
+ORD10364,C010,P302,16/03/2026,21/03/2026,Pooja Shah,Female,10/03/1989,Bengaluru,South,Stationery,Pen,20,20,20,320,5,Card,Neha,pooja.shah@company.com,9223945130,Pending
+ORD10365,C002,P103,30/04/2025,07/05/2025,Priya Patel,Female,19/04/1985,Hyderabad,South,Electronics,Keyboard,19,1200,5,21660,3,Card,Ritika,priya.patel@company.com,9910804926,Pending
+ORD10366,C010,P302,03/02/2025,13/02/2025,Pooja Shah,Female,13/08/2003,Hyderabad,South,Stationery,Pen,5,20,0,100,2,UPI,Rahul,pooja.shah@company.com,9274269744,Pending
+ORD10367,C002,P303,07/03/2026,16/03/2026,Priya Patel,Female,11/09/1983,Jaipur,North,Stationery,Marker,16,45,15,612,5,Cash,Aisha,priya.patel@company.com,9223196101,Cancelled
+ORD10368,C008,P202,03/05/2025,15/05/2025,Kavya Nair,Female,11/06/1976,Jaipur,North,Home Appliances,Iron,1,2200,10,1980,5,Card,Rahul,kavya.nair@company.com,9888477457,Completed
+ORD10369,C010,P301,01/04/2026,05/04/2026,Pooja Shah,Female,04/01/1987,Hyderabad,South,Stationery,Notebook,19,60,15,969,4,NetBanking,Neha,pooja.shah@company.com,9435947486,Cancelled
+ORD10370,C001,P101,,02/02/2025,Amit Sharma,Male,14/05/1992,Delhi,North,Electronics,Laptop,15,55000,0,825000,5,Card,Neha,amit.sharma@company.com,9411668831,Cancelled
+ORD10371,C009,P303,06/10/2025,08/10/2025,Mohit Verma,Male,03/05/1989,Bengaluru,South,Stationery,Marker,11,45,5,470.25,5,NetBanking,Karan,mohit.verma@company.com,9523682403,Completed
+ORD10372,C006,P302,12/06/2025,17/06/2025,Sneha Joshi,Female,19/12/1990,Jaipur,North,Stationery,Pen,9,20,10,162,1,Card,Rahul,sneha.joshi@company.com,9652936744,Cancelled
+ORD10373,C004,P303,18/11/2025,20/11/2025,Anita Gupta,Female,09/07/1995,Bengaluru,South,Stationery,Marker,5,45,5,213.75,3,Card,Neha,anita.gupta@company.com,9726464733,Pending
+ORD10374,C007,P102,01/11/2025,02/11/2025,Arjun Rao,Male,23/12/1998,Hyderabad,South,Electronics,Mouse,5,700,10,3150,2,UPI,Rahul,arjun.rao@company.com,9273520544,Completed
+ORD10375,C005,P102,24/01/2025,31/01/2025,Vikas Mehta,Male,23/12/1979,Kolkata,East,Electronics,Mouse,1,700,0,700,1,UPI,Karan,vikas.mehta@company.com,9374259988,Completed
+ORD10376,C008,P102,13/02/2026,21/02/2026,Kavya Nair,Female,15/12/1975,Mumbai,West,Electronics,Mouse,13,700,20,7280,2,Card,Ritika,kavya.nair@company.com,9538129419,Completed
+ORD10377,C009,P104,08/02/2025,19/02/2025,Mohit Verma,Male,17/05/1993,Pune,West,Electronics,Monitor,20,12000,0,240000,2,Card,Neha,mohit.verma@company.com,9382815686,Completed
+ORD10378,C007,P103,28/12/2025,06/01/2026,Arjun Rao,Male,17/09/1976,Kolkata,East,Electronics,Keyboard,9,1200,15,9180,1,UPI,Ritika,arjun.rao@company.com,9450746157,Pending
+ORD10379,C007,P302,01/10/2025,03/10/2025,Arjun Rao,Male,22/12/1996,Jaipur,North,Stationery,Pen,3,20,15,51,3,Cash,Neha,arjun.rao@company.com,9349012570,Pending
+ORD10380,C006,P101,18/12/2025,19/12/2025,Sneha Joshi,Female,25/12/1995,Delhi,North,Electronics,Laptop,8,55000,20,352000,5,Card,Karan,sneha.joshi@company.com,9442163790,Pending
+ORD10381,C006,P301,29/09/2025,07/10/2025,Sneha Joshi,Female,23/06/1985,Delhi,North,Stationery,Notebook,17,60,20,816,1,UPI,Ritika,sneha.joshi@company.com,9953329223,Pending
+ORD10382,C003,P302,14/05/2025,22/05/2025,Rohit Singh,Male,10/02/1984,Bengaluru,South,Stationery,Pen,4,20,15,68,3,NetBanking,Aisha,rohit.singh@company.com,9202321359,Pending
+ORD10383,C003,P202,01/04/2025,11/04/2025,Rohit      Singh,Male,02/04/2002,Kolkata,East,Home Appliances,Iron,2,2200,10,3960,2,UPI,Rahul,rohit.singh@company.com,9812564160,Pending
+ORD10384,C005,P301,07/04/2025,18/04/2025,Vikas Mehta,Male,17/07/2003,Bengaluru,South,Stationery,Notebook,5,60,5,285,1,UPI,Ritika,vikas.mehta@company.com,9688458222,Cancelled
+ORD10385,C003,P202,19/02/2026,23/02/2026,Rohit Singh,Male,06/10/1991,Delhi,North,Home Appliances,Iron,17,2200,0,37400,2,UPI,Karan,rohit.singh@company.com,9634473337,Cancelled
+ORD10386,C004,P301,04/12/2025,11/12/2025,Anita Gupta,Female,05/01/1984,Ahmedabad,West,Stationery,Notebook,7,60,0,420,2,UPI,Aisha,anita.gupta@company.com,9608737026,Pending
+ORD10387,C005,P101,20/10/2025,24/10/2025,Vikas Mehta,Male,12/03/1975,Hyderabad,South,Electronics,Laptop,6,55000,5,313500,4,Card,Aisha,vikas.mehta@company.com,9804498139,Completed
+ORD10388,C009,P302,21/01/2026,25/01/2026,Mohit Verma,Male,15/03/1983,Hyderabad,South,Stationery,Pen,16,20,5,304,1,Card,Rahul,mohit.verma@company.com,9798643580,Completed
+ORD10389,C008,P202,25/01/2025,28/01/2025,Kavya Nair,Female,20/04/1976,Kolkata,East,Home Appliances,Iron,11,2200,15,20570,1,NetBanking,Neha,kavya.nair@company.com,9809823278,Cancelled
+ORD10390,C002,P302,28/02/2025,02/03/2025,Priya Patel,Female,11/02/1986,Pune,West,Stationery,Pen,19,20,5,361,4,UPI,Ritika,priya.patel@company.com,9177767854,Pending
+ORD10391,C002,P103,20/06/2025,21/06/2025,Priya Patel,Female,21/03/1978,Pune,West,Electronics,Keyboard,20,1200,15,20400,4,Card,Ritika,priya.patel@company.com,9643440006,Pending
+ORD10392,C010,P302,28/05/2025,06/06/2025,Pooja Shah,Female,12/07/1996,Hyderabad,South,Stationery,Pen,13,20,15,221,4,Cash,Ritika,pooja.shah@company.com,9673698825,Pending
+ORD10393,C006,P103,03/01/2025,08/01/2025,Sneha Joshi,Female,02/12/1992,Delhi,North,Electronics,Keyboard,12,1200,10,12960,3,NetBanking,Ritika,sneha.joshi@company.com,9706238784,Pending
+ORD10394,C002,P203,28/01/2025,29/01/2025,Priya Patel,Female,23/03/1996,Kolkata,East,Home Appliances,Microwave,6,8500,5,48450,5,Cash,Neha,priya.patel@company.com,9132959877,Cancelled
+ORD10395,C008,P203,18/02/2026,26/02/2026,Kavya Nair,Female,23/06/1994,Ahmedabad,West,Home Appliances,Microwave,15,8500,10,114750,1,Cash,Neha,kavya.nair@company.com,9295011645,Completed
+ORD10396,C003,P104,03/08/2025,15/08/2025,Rohit Singh,Male,02/02/1980,Hyderabad,South,Electronics,Monitor,19,12000,20,182400,5,Cash,Neha,rohit.singh@company.com,9677606427,Completed
+ORD10397,C007,P102,15/01/2025,18/01/2025,Arjun Rao,Male,24/08/1990,Delhi,North,Electronics,Mouse,5,700,0,3500,2,Card,Aisha,arjun.rao@company.com,9161631566,Cancelled
+ORD10398,C007,P104,31/01/2025,04/02/2025,Arjun Rao,Male,10/12/1978,Kolkata,East,Electronics,Monitor,19,12000,0,228000,4,UPI,Aisha,arjun.rao@company.com,9136906750,Pending
+ORD10399,C001,P102,,03/11/2025,Amit Sharma,Male,01/09/1979,Bengaluru,South,Electronics,Mouse,12,700,15,7140,3,Card,Ritika,amit.sharma@company.com,9485286324,Completed
+ORD10400,C008,P103,13/05/2025,21/05/2025,Kavya Nair,Female,08/04/2001,Delhi,North,Electronics,Keyboard,16,1200,20,15360,1,Cash,Rahul,kavya.nair@company.com,9414633966,Pending
+ORD10401,C009,P203,27/12/2025,04/01/2026,Mohit Verma,Male,01/01/1983,Hyderabad,South,Home Appliances,Microwave,10,8500,5,80750,5,NetBanking,Ritika,mohit.verma@company.com,9833735234,Completed
+ORD10402,C008,P302,11/02/2025,21/02/2025,Kavya Nair,Female,09/08/1989,Ahmedabad,West,Stationery,Pen,18,20,20,288,1,UPI,Ritika,kavya.nair@company.com,9523689108,Pending
+ORD10403,C009,P203,13/03/2026,19/03/2026,Mohit Verma,Male,22/10/1993,Mumbai,West,Home Appliances,Microwave,9,8500,0,76500,2,Card,Ritika,mohit.verma@company.com,9812909831,Pending
+ORD10404,C008,P203,01/10/2025,12/10/2025,Kavya Nair,Female,05/05/2000,Mumbai,West,Home Appliances,Microwave,8,8500,10,61200,4,Cash,Neha,kavya.nair@company.com,9106290987,Cancelled
+ORD10405,C010,P302,26/01/2026,01/02/2026,Pooja Shah,Female,18/02/1984,Pune,West,Stationery,Pen,3,20,10,54,3,Card,Karan,pooja.shah@company.com,9767727724,Pending
+ORD10406,C004,P203,02/07/2025,12/07/2025,Anita Gupta,Female,13/06/1991,Kolkata,East,Home Appliances,Microwave,18,8500,10,137700,4,Cash,Rahul,anita.gupta@company.com,9865401727,Cancelled
+ORD10407,C010,P303,05/10/2025,09/10/2025,Pooja Shah,Female,19/05/1996,Pune,West,Stationery,Marker,5,45,10,202.5,3,Cash,Neha,pooja.shah@company.com,9603848571,Pending
+ORD10408,C009,P303,30/05/2025,02/06/2025,Mohit Verma,Male,23/05/1992,Mumbai,West,Stationery,Marker,2,45,20,72,5,UPI,Aisha,mohit.verma@company.com,9101231789,Cancelled
+ORD10409,C002,P303,27/01/2025,06/02/2025,Priya Patel,Female,15/06/1988,Hyderabad,South,Stationery,Marker,18,45,10,729,2,NetBanking,Neha,priya.patel@company.com,9485017802,Pending
+ORD10410,C003,P103,24/12/2025,01/01/2026,Rohit Singh,Male,22/07/1993,Kolkata,East,Electronics,Keyboard,13,1200,5,14820,4,Card,Neha,rohit.singh@company.com,9815464650,Completed
+ORD10411,C008,P302,11/05/2026,17/05/2026,Kavya Nair,Female,03/02/2004,Hyderabad,South,Stationery,Pen,14,20,20,224,5,UPI,Rahul,kavya.nair@company.com,9860715839,Pending
+ORD10412,C002,P201,11/02/2026,23/02/2026,Priya Patel,Female,23/12/1978,Hyderabad,South,Home Appliances,Mixer,16,3500,15,47600,3,UPI,Aisha,priya.patel@company.com,9207561051,Cancelled
+ORD10413,C006,P302,16/02/2025,24/02/2025,Sneha Joshi,Female,15/10/1993,Bengaluru,South,Stationery,Pen,20,20,15,340,1,NetBanking,Aisha,sneha.joshi@company.com,9159894508,Cancelled
+ORD10414,C004,P101,09/04/2025,14/04/2025,Anita Gupta,Female,12/12/1979,Ahmedabad,West,Electronics,Laptop,1,55000,15,46750,2,UPI,Neha,anita.gupta@company.com,9531465024,Cancelled
+ORD10415,C002,P301,15/01/2025,20/01/2025,Priya Patel,Female,24/05/2002,Ahmedabad,West,Stationery,Notebook,15,60,5,855,4,NetBanking,Aisha,priya.patel@company.com,9158813608,Completed
+ORD10416,C007,P102,27/03/2026,02/04/2026,Arjun Rao,Male,09/03/1976,Mumbai,West,Electronics,Mouse,15,700,0,10500,5,NetBanking,Neha,arjun.rao@company.com,9308461700,Completed
+ORD10417,C005,P104,05/01/2026,09/01/2026,Vikas Mehta,Male,20/09/1980,Kolkata,East,Electronics,Monitor,13,12000,10,140400,1,Cash,Karan,vikas.mehta@company.com,9882279049,Cancelled
+ORD10418,C007,P104,17/04/2026,29/04/2026,Arjun Rao,Male,24/06/1988,Hyderabad,South,Electronics,Monitor,12,12000,20,115200,2,Cash,Ritika,arjun.rao@company.com,9961801338,Completed
+ORD10419,C007,P303,25/03/2025,29/03/2025,Arjun Rao,Male,11/06/2003,Mumbai,West,Stationery,Marker,10,45,0,450,5,Card,Neha,arjun.rao@company.com,9853525026,Cancelled
+ORD10420,C003,P103,27/04/2025,09/05/2025,Rohit Singh,Male,10/12/1981,Mumbai,West,Electronics,Keyboard,20,1200,20,19200,5,NetBanking,Aisha,rohit.singh@company.com,9209649485,Cancelled
+ORD10421,C009,P103,19/09/2025,26/09/2025,Mohit Verma,Male,24/02/1975,Pune,West,Electronics,Keyboard,8,1200,10,8640,4,NetBanking,Aisha,mohit.verma@company.com,9712905525,Completed
+ORD10422,C003,P103,18/05/2025,20/05/2025,Rohit Singh,Male,27/09/1977,Jaipur,North,Electronics,Keyboard,8,1200,10,8640,5,Card,Rahul,rohit.singh@company.com,9812472447,Cancelled
+ORD10423,C001,P202,29/12/2025,30/12/2025,Amit Sharma,Male,25/12/1987,Jaipur,North,Home Appliances,Iron,9,2200,20,15840,1,NetBanking,Neha,amit.sharma@company.com,9281127052,Completed
+ORD10424,C003,P302,12/01/2025,16/01/2025,Rohit Singh,Male,23/03/2001,Kolkata,East,Stationery,Pen,8,20,20,128,4,Cash,Ritika,rohit.singh@company.com,9346312555,Cancelled
+ORD10425,C005,P101,13/01/2026,22/01/2026,Vikas Mehta,Male,22/09/1982,Pune,West,Electronics,Laptop,5,55000,0,275000,1,Card,Neha,vikas.mehta@company.com,9443786067,Completed
+ORD10426,C002,P103,15/03/2026,18/03/2026,Priya Patel,Female,15/09/1986,Mumbai,West,Electronics,Keyboard,13,1200,5,14820,2,Card,Ritika,priya.patel@company.com,9452540528,Cancelled
+ORD10427,C007,P203,25/11/2025,30/11/2025,Arjun Rao,Male,12/12/2002,Jaipur,North,Home Appliances,Microwave,13,8500,20,88400,5,Cash,Rahul,arjun.rao@company.com,9750918728,Pending
+ORD10428,C009,P301,04/02/2025,15/02/2025,Mohit Verma,Male,15/09/1998,Pune,West,Stationery,Notebook,14,60,10,756,1,Cash,Aisha,mohit.verma@company.com,9375975834,Cancelled
+ORD10429,C006,P202,28/04/2025,29/04/2025,Sneha Joshi,Female,17/10/1985,Bengaluru,South,Home Appliances,Iron,15,2200,0,33000,1,Cash,Aisha,sneha.joshi@company.com,9497321112,Completed
+ORD10430,C007,P301,27/08/2025,29/08/2025,Arjun Rao,Male,15/08/1995,Jaipur,North,Stationery,Notebook,19,60,20,912,3,Cash,Karan,arjun.rao@company.com,9828749888,Pending
+ORD10431,C010,P303,12/10/2025,23/10/2025,Pooja Shah,Female,27/08/1985,Jaipur,North,Stationery,Marker,13,45,15,497.25,2,Cash,Rahul,pooja.shah@company.com,9814267382,Completed
+ORD10432,C006,P104,14/01/2026,24/01/2026,Sneha Joshi,Female,05/06/1975,Mumbai,West,Electronics,Monitor,7,12000,5,79800,4,Card,Karan,sneha.joshi@company.com,9937007439,Cancelled
+ORD10433,C001,P302,10/05/2026,,Amit Sharma,Male,25/03/1997,Kolkata,East,Stationery,Pen,8,20,0,160,4,Card,Aisha,amit.sharma@company.com,9657513435,Pending
+ORD10434,C008,P201,01/02/2025,06/02/2025,Kavya Nair,Female,18/04/1997,Kolkata,East,Home Appliances,Mixer,16,3500,5,53200,1,Card,Aisha,kavya.nair@company.com,9999406260,Cancelled
+ORD10435,C001,P203,22/02/2025,04/03/2025,Amit Sharma,Male,28/05/1999,Mumbai,West,Home Appliances,Microwave,12,8500,10,91800,3,Card,Ritika,amit.sharma@company.com,9233727886,Completed
+ORD10436,C008,P301,18/04/2025,20/04/2025,Kavya Nair,Female,25/06/1983,Ahmedabad,West,Stationery,Notebook,1,60,20,48,2,Card,Karan,kavya.nair@company.com,9831688801,Completed
+ORD10437,C003,P301,06/11/2025,11/11/2025,Rohit Singh,Male,26/01/1993,Hyderabad,South,Stationery,Notebook,3,60,15,153,4,Card,Ritika,rohit.singh@company.com,9982849508,Completed
+ORD10438,C002,P102,20/03/2025,25/03/2025,Priya Patel,Female,03/03/1979,Kolkata,East,Electronics,Mouse,10,700,15,5950,3,NetBanking,Ritika,priya.patel@company.com,9288309246,Pending
+ORD10439,C007,P302,22/10/2025,25/10/2025,Arjun Rao,Male,13/09/1976,Ahmedabad,West,Stationery,Pen,2,20,10,36,2,UPI,Aisha,arjun.rao@company.com,9808476235,Completed
+ORD10440,C007,P302,31/12/2025,05/01/2026,Arjun Rao,Male,27/07/1991,Delhi,North,Stationery,Pen,14,20,20,224,5,Cash,Karan,arjun.rao@company.com,9869056117,Pending
+ORD10441,C001,P201,21/06/2025,25/06/2025,Amit Sharma,Male,25/10/1987,Ahmedabad,West,Home Appliances,Mixer,4,3500,0,14000,2,UPI,Ritika,amit.sharma@company.com,9734229772,Cancelled
+ORD10442,C007,P201,04/06/2025,05/06/2025,Arjun Rao,Male,09/11/1983,Jaipur,North,Home Appliances,Mixer,9,3500,5,29925,3,Card,Aisha,arjun.rao@company.com,9791617906,Completed
+ORD10443,C003,P301,30/05/2025,03/06/2025,Rohit Singh,Male,28/12/1983,Mumbai,West,Stationery,Notebook,9,60,0,540,3,UPI,Ritika,rohit.singh@company.com,9286316823,Pending
+ORD10444,C004,P103,02/05/2025,03/05/2025,Anita Gupta,Female,15/09/1992,Ahmedabad,West,Electronics,Keyboard,4,1200,0,4800,1,NetBanking,Aisha,anita.gupta@company.com,9810569252,Completed
+ORD10445,C010,P101,03/02/2025,13/02/2025,Pooja Shah,Female,09/08/1999,Hyderabad,South,Electronics,Laptop,10,55000,5,522500,5,UPI,Neha,pooja.shah@company.com,9771745925,Completed
+ORD10446,C005,P303,29/06/2025,06/07/2025,Vikas Mehta,Male,27/02/1990,Hyderabad,South,Stationery,Marker,20,45,15,765,2,Card,Ritika,vikas.mehta@company.com,9820683063,Cancelled
+ORD10447,C008,P302,12/02/2026,22/02/2026,Kavya Nair,Female,27/03/1994,Mumbai,West,Stationery,Pen,9,20,20,144,3,Card,Aisha,kavya.nair@company.com,9292891941,Completed
+ORD10448,C008,P101,03/03/2025,14/03/2025,Kavya Nair,Female,11/06/1980,Pune,West,Electronics,Laptop,8,55000,0,440000,4,Cash,Neha,kavya.nair@company.com,9413789556,Completed
+ORD10449,C001,P103,24/04/2026,28/04/2026,Amit Sharma,Male,10/06/2000,Ahmedabad,West,Electronics,Keyboard,4,1200,10,4320,4,UPI,Ritika,amit.SHarma@company.com,98765,Cancelled
+ORD10450,C001,P203,03/05/2026,13/05/2026,Amit Sharma,Male,21/04/1998,Kolkata,East,Home Appliances,Microwave,14,8500,10,107100,4,Cash,Ritika,amit.sharma@company.com,9211936331,Completed
+ORD10451,C009,P303,30/05/2025,07/06/2025,Mohit Verma,Male,10/05/1984,Hyderabad,South,Stationery,Marker,1,45,0,45,3,UPI,Karan,mohit.verma@company.com,9167291747,Cancelled
+ORD10452,C009,P101,17/02/2025,28/02/2025,Mohit Verma,Male,07/10/1986,Delhi,North,Electronics,Laptop,16,55000,15,748000,1,Card,Karan,mohit.verma@company.com,9637283597,Cancelled
+ORD10453,C010,P102,22/03/2026,29/03/2026,Pooja Shah,Female,01/11/2003,Ahmedabad,West,Electronics,Mouse,8,700,0,5600,3,Cash,Rahul,pooja.shah@company.com,9514269002,Completed
+ORD10454,C006,P103,02/04/2026,13/04/2026,Sneha Joshi,Female,10/06/2003,Ahmedabad,West,Electronics,Keyboard,3,1200,0,3600,1,Card,Rahul,sneha.joshi@company.com,9778908233,Cancelled
+ORD10455,C009,P201,18/02/2025,26/02/2025,Mohit Verma,Male,27/03/1990,Kolkata,East,Home Appliances,Mixer,7,3500,15,20825,4,Card,Aisha,mohit.verma@company.com,9981118755,Pending
+ORD10456,C010,P101,29/03/2026,04/04/2026,Pooja Shah,Female,28/05/2003,Pune,West,Electronics,Laptop,9,55000,15,420750,3,UPI,Ritika,pooja.shah@company.com,9887896743,Cancelled
+ORD10457,C001,P104,01/12/2025,02/12/2025,Amit Sharma,Male,06/02/1993,Bengaluru,South,Electronics,Monitor,12,12000,0,144000,3,Card,Karan,amit.sharma@company.com,9585330043,Cancelled
+ORD10458,C002,P301,04/05/2025,11/05/2025,Priya Patel,Female,02/09/1975,Ahmedabad,West,Stationery,Notebook,7,60,10,378,4,Cash,Rahul,priya.patel@company.com,9423719975,Cancelled
+ORD10459,C005,P202,23/08/2025,31/08/2025,Vikas Mehta,Male,09/09/1994,Mumbai,West,Home Appliances,Iron,17,2200,15,31790,3,UPI,Karan,vikas.mehta@company.com,9270746961,Pending
+ORD10460,C001,P102,27/11/2025,06/12/2025,Amit Sharma,Male,07/10/1992,Bengaluru,South,Electronics,Mouse,17,700,10,10710,2,Cash,Aisha,amit.sharma@company.com,9333162025,Pending
+ORD10461,C001,P101,29/05/2025,01/06/2025,Amit Sharma,Male,17/07/2002,Delhi,North,Electronics,Laptop,19,55000,20,836000,5,NetBanking,Aisha,amit.sharma@company.com,9247023285,Completed
+ORD10462,C003,P301,12/09/2025,19/09/2025,Rohit Singh,Male,03/02/2001,Delhi,North,Stationery,Notebook,1,60,10,54,4,NetBanking,,rohit.sinGh@company.com,9448658297,Cancelled
+ORD10463,C009,P201,04/03/2026,11/03/2026,Mohit Verma,Male,23/06/1990,Hyderabad,South,Home Appliances,Mixer,16,3500,0,56000,4,NetBanking,Ritika,mohit.verma@company.com,9906748486,Pending
+ORD10464,C003,P302,24/01/2025,05/02/2025,Rohit Singh,Male,13/05/1978,Pune,West,Stationery,Pen,14,20,10,252,1,NetBanking,Aisha,rohit.singh@company.com,9365182725,Pending
+ORD10465,C009,P202,13/12/2025,14/12/2025,Mohit Verma,Male,22/07/2000,Bengaluru,South,Home Appliances,Iron,11,2200,15,20570,4,NetBanking,Rahul,mohit.verma@company.com,9937119494,Cancelled
+ORD10466,C007,P101,01/08/2025,09/08/2025,Arjun Rao,Male,20/03/1985,Jaipur,North,Electronics,Laptop,2,55000,0,110000,4,NetBanking,Rahul,arjun.rao@company.com,9828015293,Cancelled
+ORD10467,C010,P202,01/01/2025,07/01/2025,Pooja Shah,Female,08/02/1988,Pune,West,Home Appliances,Iron,7,2200,5,14630,4,Card,Neha,pooja.shah@company.com,9864206250,Cancelled
+ORD10468,C008,P303,08/04/2025,12/04/2025,Kavya Nair,Female,26/04/1997,Ahmedabad,West,Stationery,Marker,11,45,15,420.75,4,Card,Aisha,kavya.nair@company.com,9519293104,Pending
+ORD10469,C002,P301,20/04/2025,30/04/2025,Priya Patel,Female,22/05/2001,Mumbai,West,Stationery,Notebook,16,60,5,912,2,Cash,Neha,priya.patel@company.com,9296075245,Cancelled
+ORD10470,C001,P101,02/11/2025,04/11/2025,Amit Sharma,Male,19/06/1982,Pune,West,Electronics,Laptop,18,55000,0,990000,5,NetBanking,Rahul,amit.sharma@company.com,9316770206,Pending
+ORD10471,C008,P103,18/10/2025,22/10/2025,Kavya Nair,Female,23/06/1999,Bengaluru,South,Electronics,Keyboard,17,1200,5,19380,1,NetBanking,Ritika,kavya.nair@company.com,9706553861,Pending
+ORD10472,C010,P101,27/04/2025,05/05/2025,Pooja Shah,Female,02/02/2001,Pune,West,Electronics,Laptop,11,55000,0,605000,2,Cash,Aisha,pooja.shah@company.com,9524904662,Pending
+ORD10473,C006,P102,22/05/2025,31/05/2025,Sneha Joshi,Female,09/02/1999,Delhi,North,Electronics,Mouse,20,700,20,11200,5,NetBanking,Aisha,sneha.joshi@company.com,9577624596,Completed
+ORD10474,C009,P302,28/01/2026,08/02/2026,Mohit Verma,Male,06/05/1988,Delhi,North,Stationery,Pen,5,20,5,95,4,Cash,Rahul,mohit.verma@company.com,9898452436,Cancelled
+ORD10475,C001,P101,04/02/2025,11/02/2025,Amit Sharma,Male,12/02/1975,Mumbai,West,Electronics,Laptop,13,55000,5,679250,1,NetBanking,Rahul,amit.sharma@company.com,9960757012,Pending
+ORD10476,C003,P101,19/04/2025,20/04/2025,Rohit Singh,Male,01/01/2004,Kolkata,East,Electronics,Laptop,12,55000,5,627000,1,NetBanking,Neha,rohit.singh@company.com,9331268182,Cancelled
+ORD10477,C010,P303,21/01/2025,28/01/2025,Pooja Shah,Female,23/08/2001,Mumbai,West,Stationery,Marker,16,45,20,576,2,Cash,Rahul,pooja.shah@company.com,9135996862,Pending
+ORD10478,C008,P103,18/09/2025,27/09/2025,Kavya Nair,Female,23/01/1998,Bengaluru,South,Electronics,Keyboard,5,1200,10,5400,1,Cash,,kavya.Nair@company.com,9540813143,Completed
+ORD10479,C004,P303,19/10/2025,20/10/2025,Anita     Gupta,Female,28/05/2004,Kolkata,East,Stationery,Marker,2,45,10,81,4,UPI,Rahul,anita.gupta@company.com,9910913552,Pending
+ORD10480,C003,P104,12/01/2026,18/01/2026,Rohit Singh,Male,06/03/1985,Ahmedabad,West,Electronics,Monitor,3,12000,0,36000,2,UPI,Karan,rohit.singh@company.com,9282751683,Pending
+ORD10481,C008,P104,26/01/2025,01/02/2025,Kavya      Nair,Female,06/09/1986,Bengaluru,South,Electronics,Monitor,3,12000,20,28800,3,UPI,Neha,kavya.nair@company.com,9939332058,Completed
+ORD10482,C003,P203,07/04/2026,08/04/2026,Rohit Singh,Male,21/08/1981,Kolkata,East,Home Appliances,Microwave,9,8500,15,65025,5,Cash,Rahul,rohit.singh@company.com,9780626473,Pending
+ORD10483,C009,P102,26/06/2025,06/07/2025,Mohit verma,Male,23/04/1992,Kolkata,East,Electronics,Mouse,17,700,0,11900,2,Cash,Aisha,mohit.verma@company.com,9347298020,Cancelled
+ORD10484,C008,P102,08/07/2025,18/07/2025,Kavya Nair,Female,03/07/1991,Hyderabad,South,Electronics,Mouse,20,700,5,13300,2,UPI,Ritika,kavya.nair@company.com,9345328522,Completed
+ORD10485,C001,P103,11/03/2026,21/03/2026,         Amit Sharma,Male,05/02/1978,Ahmedabad,West,Electronics,Keyboard,13,1200,20,12480,5,Card,Neha,amit.sharma@company.com,9160310438,Completed
+ORD10486,C002,P101,23/03/2026,29/03/2026,Priya Patel,Female,18/07/1999,Jaipur,North,Electronics,Laptop,20,55000,10,990000,1,UPI,Ritika,priya.patel@company.com,9343776153,Pending
+ORD10487,C006,P103,31/10/2025,05/11/2025,Sneha Joshi,Female,03/04/1988,Kolkata,East,Electronics,Keyboard,8,1200,0,9600,2,NetBanking,Karan,sneha.joshi@company.com,9458599727,Completed
+ORD10488,C010,P302,05/05/2026,09/05/2026,Pooja Shah,Female,11/11/1978,Kolkata,East,Stationery,Pen,18,20,10,324,5,Card,,pOOja.shah@company.com,9218660140,Pending
+ORD10489,C004,P104,23/02/2025,07/03/2025,Anita Gupta,Female,02/04/1994,Pune,West,Electronics,Monitor,11,12000,10,118800,1,Card,Rahul,anita.gupta@company.com,9341979199,Cancelled
+ORD10490,C001,P203,15/01/2025,17/01/2025,Amit Sharma,Male,09/05/1993,Hyderabad,South,Home Appliances,Microwave,2,8500,5,16150,1,Card,Aisha,amit.sharma@company.com,9823080381,Completed
+ORD10491,C002,P202,30/03/2025,08/04/2025,Priya Patel      ,Female,11/07/1994,Pune,West,Home Appliances,Iron,7,2200,0,15400,5,NetBanking,Ritika,priya.patel@company.com,9981183477,Pending
+ORD10492,C007,P203,24/04/2026,02/05/2026,Arjun Rao,Male,19/12/1982,Delhi,North,Home Appliances,Microwave,20,8500,0,170000,3,NetBanking,Rahul,arjun.rao@company.com,9281596011,Completed
+ORD10493,C003,P103,20/07/2025,29/07/2025,     Rohit Singh,Male,02/11/2001,Hyderabad,South,Electronics,Keyboard,11,1200,5,12540,2,Cash,Ritika,rohit.singh@company.com,9211734022,Pending
+ORD10494,C007,P102,29/07/2025,01/08/2025,Arjun Rao,Male,18/10/2001,Ahmedabad,West,Electronics,Mouse,14,700,0,9800,2,Card,Karan,arjun.rao@company.com,9447151666,Cancelled
+ORD10495,C009,P103,21/10/2025,01/11/2025,Mohit Verma,Male,21/12/2000,Pune,West,Electronics,Keyboard,16,1200,15,16320,4,Cash,Karan,mohit.verma@company.com,9345342793,Pending
+ORD10496,C004,P202,17/03/2026,29/03/2026,Anita      Gupta,Female,20/02/1983,Jaipur,North,Home Appliances,Iron,20,2200,0,44000,5,Cash,Ritika,anita.gupta@company.com,9329668173,Cancelled
+ORD10497,C007,P104,23/02/2025,07/03/2025,Arjun Rao,Male,13/06/1988,Jaipur,North,Electronics,Monitor,12,12000,15,122400,5,Cash,Karan,arjun.rao@company.com,9294740227,Completed
+ORD10498,C005,P103,11/12/2025,20/12/2025,Vikas Mehta,Male,22/07/1992,Delhi,North,Electronics,Keyboard,3,1200,20,2880,2,NetBanking,Neha,vikas.mehtacompany.com,9549426303,Pending
+ORD10499,C002,P101,04/07/2025,05/07/2025,Priya Patel,Female,12/08/1979,Mumbai,West,Electronics,"Laptop,Mouse",6,55000,20,264000,3,Cash,Karan,priya.patel@company.com,9374249303,Completed
+ORD10500,C002,P201,16/09/2025,23/09/2025,Priya Patel,Female,24/11/1976,Bengaluru,South,Home Appliances,Mixer,20,3500,0,70000,1,NetBanking,Karan,priya.patel@company.com,9810334941,Pending
