@@ -8,9 +8,8 @@ To solve real-world business problems using Microsoft Excel by applying data cle
 Corporate sales dataset including customer details, product information, transactions, and regional sales.
 
 ## Dashboard Preview
-
+Interactive Sales Dashboard with KPIs, charts, slicers, and timelines.
 ![Dashboard Screenshot](dashboard.png)
-
 
 ## Project Components
 1. **Customer Classification**  
